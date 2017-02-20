@@ -2,7 +2,7 @@
 # February 20, 2017
 # For the USC Lab on Non-Democratic Politics under the direction of Erin Baggott Carter and Brett Logan Carter
 # Scrapes the Agencia Brasil
-# Prints all sections (including potentially unrelated sections such as sports)
+# Prints all noticia (news) sections, which can potentially include unrelated topics such as sports
 # Use ISO-8859-1 Encoder to read the txt files
 
 # The Nigerian Observer uses years and months, rather than years, months, and days like the New York Times
@@ -58,12 +58,12 @@ class AgenciaBrasil(object):
                 print("Error. Start date must be less than end date.")
                 pass
 
-        fileOutName = input("Enter file out name. Please omit \".txt\" (ex: tno2016.txt):")
+        fileOutName = input("Enter file out name. Please omit \".txt\" (ex: abs2016.txt):")
         self.__fileOut = open(directory + fileOutName + ".txt", "a")
         self.__fileOut2 = open(directory + fileOutName + "_utf-8.txt", "a")
         self.__pageCounter = 0
         queryInput = input("Insert search term (if none, enter \"none\"):")
-        if queryInput == "" or queryInput == "none":
+        if queryInput == "" or queryInput == "none":    # Agencia Brasil doesn't allow empty searches, so "brasil" will be searched if no query is inputted
             queryInput = "brasil"
         self.__query = queryInput.strip()
         self.__driver = webdriver.Firefox()
@@ -119,13 +119,14 @@ class AgenciaBrasil(object):
             try: # Some elements with tag "h2" don't have links. This gets past that
                 link = data.find_element_by_css_selector("a").get_attribute("href")
                 print(link)
-                linksList.append(link)
+                if "noticia" in link: # Some links only show phtoographs, so this filters to articles.
+                    linksList.append(link)
                 time.sleep(random.uniform(1, 3))
             except Exception as e:
                 print("Error in getting sublinks")
                 print(e)
         print("Sublinks:", linksList)
-        print("Loading sublinks done", end="\n")
+        print("Loading sublinks done", end="\n\n")
         time.sleep(random.uniform(5, 10))
         return linksList
 
@@ -182,7 +183,6 @@ class AgenciaBrasil(object):
                 print("Error in printing full page")
                 print(str(e))
 
-    # There is no need to add months
     def startDateAddMonth(self):
         if self.__startDate.month < 12:
             self.__startDate = datetime.datetime.strptime(str(self.__startDate.year) + str(self.__startDate.month + 1), "%Y%m")
@@ -191,10 +191,10 @@ class AgenciaBrasil(object):
         return self.__startDate
 
 
-# Need to make inputs their own functions for error checking
+# Main loop
 def main():
 
-    # Main loop
+
     abs = AgenciaBrasil()
     startdate = abs.getStartDate()
     enddate = abs.getEndDate()
