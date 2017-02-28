@@ -1,0 +1,907 @@
+b'http://agenciabrasil.ebc.com.br/economia/noticia/2016-07/agencia-brasil-errou'
+b'Ag\xc3\xaancia Brasil errou'
+b'08/07/2016 17h15'
+b'Da Ag\xc3\xaancia Brasil'
+b'O t\xc3\xadtulo da reportagem "CNI defende carga de 80 horas semanais para trabalhador brasileiro" publicada hoje (8) \xc3\xa0s 14h21 permaneceu com erro at\xc3\xa9 as 15h28. Diferentemente do informado, o presidente da Confedera\xc3\xa7\xc3\xa3o Nacional da Ind\xc3\xbastria (CNI), Robson Andrade, n\xc3\xa3o defendeu a jornada de 80 horas semanais para o pa\xc3\xads, mas mudan\xc3\xa7as na Previd\xc3\xaancia e nas leis trabalhistas. O t\xc3\xadtulo da mat\xc3\xa9ria foi alterado para "Presidente da CNI defende mudan\xc3\xa7as previdenci\xc3\xa1rias e nas leis trabalhistas".'
+b'Veja aqui o t\xc3\xadtulo corrigido da mat\xc3\xa9ria'
+Article 1 printed
+
+
+************************************
+
+
+b'http://agenciabrasil.ebc.com.br/politica/noticia/2016-03/agencia-brasil-errou-0'
+b'Ag\xc3\xaancia Brasil errou'
+b'18/03/2016 11h09'
+b'Da Ag\xc3\xaancia Brasil'
+b'A mat\xc3\xa9ria "Novo C\xc3\xb3digo Civil entra em vigor com a promessa de agilizar a\xc3\xa7\xc3\xb5es na Justi\xc3\xa7a" permaneceu com o t\xc3\xadtulo errado das 8h45 \xc3\xa0s 10h55 de hoje (18/3). Diferentemente do que o t\xc3\xadtulo informava, entra em vigor o novo C\xc3\xb3digo de Processo Civil.\n\nLeia aqui a mat\xc3\xa9ria com o t\xc3\xadtulo corrigido.'
+Article 2 printed
+
+
+************************************
+
+
+b'http://agenciabrasil.ebc.com.br/geral/noticia/2016-02/agencia-brasil-errou'
+b'Ag\xc3\xaancia Brasil errou'
+b'02/02/2016 17h39'
+b'Da Ag\xc3\xaancia Brasil'
+b'A mat\xc3\xa9ria "Olimp\xc3\xadada 2016 tem 75% dos ingressos vendidos" publicada hoje (2), \xc3\xa0s 12h29, estava errada. Diferentemente do informado na reportagem, o Comit\xc3\xaa Rio2016 anunciou a venda de 2,75 milh\xc3\xb5es de ingressos, que corresponde a 74% da meta de arrecada\xc3\xa7\xc3\xa3o dos Jogos Olimp\xc3\xadcos, e n\xc3\xa3o que foram vendidos 75% dos ingressos.'
+b'O texto e o t\xc3\xadtulo foram alterados para corre\xc3\xa7\xc3\xa3o da informa\xc3\xa7\xc3\xa3o. '
+b'Leia aqui o texto alterado'
+Article 3 printed
+
+
+************************************
+
+
+b'http://agenciabrasil.ebc.com.br/politica/noticia/2016-03/agencia-brasil-errou'
+b'Ag\xc3\xaancia Brasil errou'
+b'02/03/2016 21h28'
+b''
+b'A Ag\xc3\xaancia Brasil errou ao usar a express\xc3\xa3o \xe2\x80\x9cpris\xc3\xa3o domiciliar\xe2\x80\x9d para referir-se \xc3\xa0 decis\xc3\xa3o do ministro do Supremo Tribunal Federal (STF) Teori Zavaski que revogou a pris\xc3\xa3o preventiva do senador Delc\xc3\xaddio do Amaral (PT-MS).\n\nEm despacho de 19 de fevereiro, o ministro substituiu a pris\xc3\xa3o preventiva de Delc\xc3\xaddio por cinco medidas cautelares, dentre elas a de \xe2\x80\x9crecolhimento domiciliar\xe2\x80\x9d, a ser cumprido no per\xc3\xadodo noturno e nos dias de folga de sua atividade de senador. O ministro decidiu ainda que "caso licenciado ou afastado do referido cargo, [o senador] dever\xc3\xa1 permanecer em recolhimento domiciliar integral at\xc3\xa9 nova demonstra\xc3\xa7\xc3\xa3o de ocupa\xc3\xa7\xc3\xa3o l\xc3\xadcita\xe2\x80\x9d.\n\nPris\xc3\xa3o domiciliar, conforme a lei, \xc3\xa9 o abrandamento de pena de r\xc3\xa9u j\xc3\xa1 condenado em senten\xc3\xa7a transitada em julgado. As mat\xc3\xa9rias anteriores que tratam do assunto foram corrigidas. Clique abaixo para ver os textos com a devida altera\xc3\xa7\xc3\xa3o.'
+b'Volta de Delc\xc3\xaddio ao Senado \xc3\xa9 desrespeito ao Parlamento, diz presidente da OAB\nDecis\xc3\xa3o sobre presid\xc3\xaancia da CAE aguarda retorno de Delc\xc3\xaddio do Amaral ao Senado\nDelc\xc3\xaddio do Amaral se licencia do Senado por 15 dias para exames m\xc3\xa9dicos\nDelc\xc3\xaddio renuncia \xc3\xa0 Comiss\xc3\xa3o de Assuntos Econ\xc3\xb4micos do Senado'
+Article 4 printed
+
+
+************************************
+
+
+b'http://agenciabrasil.ebc.com.br/geral/noticia/2016-01/agencia-brasil-errou'
+b'Ag\xc3\xaancia Brasil errou'
+b'22/01/2016 10h01'
+b''
+b'A mat\xc3\xa9ria "Governo anuncia funda\xc3\xa7\xc3\xa3o financiada por mineradoras para recuperar Rio Doce" permaneceu com erro das 21h56 de ontem (21) \xc3\xa0s 6h de hoje (22). Diferentemente do que o texto informava, o novo presidente da Samarco, Roberto Carvalho, disse que "em a Samarco operando, a empresa tem condi\xc3\xa7\xc3\xb5es de arcar com todas essas responsabilidades financeiras\xe2\x80\x9d e n\xc3\xa3o que \xe2\x80\x9cnem com a Samarco operando, a empresa tem condi\xc3\xa7\xc3\xb5es de arcar com todas essas responsabilidades financeiras". A legenda da foto tamb\xc3\xa9m foi alterada.\n\nLeia aqui a mat\xc3\xa9ria corrigida'
+Article 5 printed
+
+
+************************************
+
+
+b'http://agenciabrasil.ebc.com.br/geral/noticia/2016-10/agencia-brasil-retoma-atividades'
+b'Ag\xc3\xaancia Brasil retoma atividades'
+b'14/10/2016 09h11'
+b'Da Ag\xc3\xaancia Brasil'
+b'Por problemas t\xc3\xa9cnicos, a Ag\xc3\xaancia Brasil ficou fora do ar hoje (14), desde a abertura, \xc3\xa0s 6h. Pedimos desculpas aos nossos leitores.'
+Article 6 printed
+
+
+************************************
+
+
+b'http://agenciabrasil.ebc.com.br/geral/noticia/2016-12/sete-brasileiros-detidos-nas-bahamas-retornam-ao-brasil'
+b'Sete brasileiros detidos nas Bahamas retornam ao Brasil'
+b'29/12/2016 21h08'
+b'D\xc3\xa9bora Brito - Rep\xc3\xb3rter da Ag\xc3\xaancia Brasil*'
+b''
+b'Sete dos 12 brasileiros que foram detidos nas Bahamas no \xc3\xbaltimo dia 19 por tentativa de imigra\xc3\xa7\xc3\xa3o irregular j\xc3\xa1 retornaram ao Brasil. Segundo informa\xc3\xa7\xc3\xb5es do Minist\xc3\xa9rio das Rela\xc3\xa7\xc3\xb5es Exteriores, os demais devem voltar ao pa\xc3\xads at\xc3\xa9 o fim da semana.'
+b'Outros 14 brasileiros est\xc3\xa3o presos na Fl\xc3\xb3rida, Estados Unidos, aguardando a deporta\xc3\xa7\xc3\xa3o. De 2011 a 2015, 278 brasileiros foram presos nas Bahamas. Segundo o Itamaraty, a grande maioria dos casos se deve \xc3\xa0 expira\xc3\xa7\xc3\xa3o do prazo do visto de perman\xc3\xaancia e de tentativa de imigra\xc3\xa7\xc3\xa3o ilegal para os Estados Unidos.'
+b'Os dados de 2016 ainda n\xc3\xa3o foram compilados, mas, segundo informa\xc3\xa7\xc3\xb5es da Embaixada do Brasil em Nassau, o n\xc3\xbamero de brasileiros presos aumentou significativamente depois que Donald Trump foi eleito presidente dos Estados Unidos. Uma das promessas de Trump durante a corrida eleitoral foi aumentar a restri\xc3\xa7\xc3\xa3o de entrada de migrantes em territ\xc3\xb3rio norte-americano.'
+b'Desaparecidos'
+b'O governo brasileiro informou que segue na busca por um grupo que est\xc3\xa1 desaparecido na regi\xc3\xa3o de Bahamas desde 6 de novembro. Hoje (29), a representa\xc3\xa7\xc3\xa3o brasileira em Nassau se reuniu com integrantes do governo de Bahamas na tentativa de firmar oficialmente um apoio para as investiga\xc3\xa7\xc3\xb5es.'
+b'*Colaborou Aline Leal '
+Article 7 printed
+
+
+************************************
+
+
+b'http://agenciabrasil.ebc.com.br/rio-2016/noticia/2016-08/brasil-e-eliminado-no-handebol-masculino'
+b'Brasil \xc3\xa9 eliminado no handebol masculino'
+b'17/08/2016 12h04'
+b'Andreia Verd\xc3\xa9lio \xe2\x80\x93 Rep\xc3\xb3rter da Ag\xc3\xaancia Brasil'
+b'O brasileiro Fabio Chiuffa e o franc\xc3\xaas Michael GuigoReuters/Marko Djurica/Direitos Reservados'
+b'Em jogo acirrado, o Brasil perdeu hoje (17) para a Fran\xc3\xa7a, nas quartas de final do handebol masculino, e est\xc3\xa1 fora da disputa por medalhas nos Jogos Ol\xc3\xadmpicos do Rio. Na pr\xc3\xb3xima etapa, os franceses enfrentar\xc3\xa3o Alemanha ou Catar, que decidem hoje \xc3\xa0 tarde a outra vaga na semifinal.'
+b'O primeiro tempo terminou empatado em 16 a 16; no in\xc3\xadcio do segundo tempo as equipes levaram o jogo ponto a ponto, at\xc3\xa9 que a Fran\xc3\xa7a abriu vantagem. O jogo terminou em 34 a 27 para os franceses.'
+b'No feminino, a sele\xc3\xa7\xc3\xa3o brasileira de handebol tamb\xc3\xa9m perdeu ontem (16) nas quartas de final para a Holanda por 32 a 23.'
+Article 8 printed
+
+
+************************************
+
+
+b'http://agenciabrasil.ebc.com.br/rio-2016/noticia/2016-08/olimpiada-brasil-perde-no-badminton'
+b'Olimp\xc3\xadada: Brasil perde no badminton'
+b'11/08/2016 14h04'
+b'Andreia Verd\xc3\xa9lio \xe2\x80\x93 Rep\xc3\xb3rter da Ag\xc3\xaancia Brasil*'
+b'Lohaynny Vicente foi derrotada nas classificat\xc3\xb3rias individuais do badminton pela indiana Saina NehwalReuters/Marcelo del Pozo/Direitos Reservados'
+b'A atleta brasileira Lohaynny Vicente estreou com derrota hoje (11) nas classificat\xc3\xb3rias individuais do badminton. Ela enfrentou a indiana Saina Nehwal, que ganhou por 2 a 0.'
+b'Lohaynny enfrentar\xc3\xa1 a atleta Maria Ulitina, da Ucr\xc3\xa2nia, no s\xc3\xa1bado (13).'
+b'A modalidade fez sua estreia na Olimp\xc3\xadada de 1992, em Barcelona, e tem torneios masculinos e femininos, individuais e de duplas, al\xc3\xa9m de duplas mistas.'
+b'O esporte lembra o t\xc3\xaanis. Com uma raquete, os atletas devem fazer com que a peteca toque o campo do advers\xc3\xa1rio, passando por cima da rede. Vence quem marcar mais pontos. As petecas podem voar a 400 km/h.'
+b''
+Article 9 printed
+
+
+************************************
+
+
+b'http://agenciabrasil.ebc.com.br/cultura/noticia/2016-12/dialogo-brasil-debate-o-processo-de-adocao-no-pais'
+b'Di\xc3\xa1logo Brasil debate o processo de ado\xc3\xa7\xc3\xa3o no pa\xc3\xads'
+b'20/12/2016 09h16'
+b'Da Ag\xc3\xaancia Brasil'
+b'O programa Di\xc3\xa1logo Brasil desta ter\xc3\xa7a-feira (20) vai discutir o processo de ado\xc3\xa7\xc3\xa3o no pa\xc3\xads, cujo cadastro de pretendentes a um filho ou filha \xc3\xa9 cinco vezes maior que o de crian\xc3\xa7as \xc3\xa0 espera de uma fam\xc3\xadlia. A ju\xc3\xadza de direito Sandra Silvestre, do Conselho Nacional de Justi\xc3\xa7a, e a promotora do Tribunal de Justi\xc3\xa7a do Distrito Federal e Territ\xc3\xb3rios Luisa de Marillac discutem a quest\xc3\xa3o e mostram solu\xc3\xa7\xc3\xb5es. O programa vai ao ar \xc3\xa0s 20h30, na TV Brasil.'
+b'Luisa de Marillac lembra que \xe2\x80\x9cest\xc3\xa1 sempre em pauta o interesse superior da crian\xc3\xa7a\xe2\x80\x9d. Para ela, \xc3\xa9 imprescind\xc3\xadvel esgotar todas as possibilidades de manter a crian\xc3\xa7a na fam\xc3\xadlia, e o processo apenas tem in\xc3\xadcio depois da destitui\xc3\xa7\xc3\xa3o do p\xc3\xa1trio poder, que, em regra, extrapola o prazo previsto. A ju\xc3\xadza Sandra Silvestre acrescenta que, \xc3\xa0s vezes, m\xc3\xa3es mudam de ideia ou pais aparecem de \xc3\xbaltima hora para reconhecer a paternidade ou reclamar a guarda. Mas tamb\xc3\xa9m h\xc3\xa1 problemas estruturais, como a falta de ju\xc3\xadzes e varas especializados.'
+b'Tamb\xc3\xa9m participam do programa, por meio de depoimentos, a secret\xc3\xa1ria nacional de Promo\xc3\xa7\xc3\xa3o dos Direitos da Crian\xc3\xa7a e do Adolescente, Cl\xc3\xa1udia Vidigal, o psic\xc3\xb3logo-chefe da Vara da Inf\xc3\xa2ncia e Juventude do Distrito Federal, Walter Gomes de Souza, e o juiz da Inf\xc3\xa2ncia e Juventude de Pernambuco \xc3\x89lio Braz Mendes.'
+Article 10 printed
+
+
+************************************
+
+
+b'http://agenciabrasil.ebc.com.br/politica/noticia/2016-12/temer-diz-que-nao-permitira-que-acusacoes-paralisem-o-brasil'
+b'Temer diz que n\xc3\xa3o permitir\xc3\xa1 que acusa\xc3\xa7\xc3\xb5es paralisem o Brasil'
+b'13/12/2016 16h49'
+b'Paulo Victor Chagas - Rep\xc3\xb3rter da Ag\xc3\xaancia Brasil'
+b''
+b'Presidente Michel Temer lan\xc3\xa7a o Programa de Renova\xc3\xa7\xc3\xa3o da Frota de \xc3\x94nibus, o Refrota 17, em cerim\xc3\xb4nia no Pal\xc3\xa1cio do Planalto Valter Campanato/Ag\xc3\xaancia Brasil'
+b'O presidente Michel Temer disse hoje (13) que as acusa\xc3\xa7\xc3\xb5es de corrup\xc3\xa7\xc3\xa3o envolvendo pol\xc3\xadticos n\xc3\xa3o podem paralisar o Brasil e afirmou que, contra essa tend\xc3\xaancia, o governo seguir\xc3\xa1 trabalhando "com os mesmos crit\xc3\xa9rios" at\xc3\xa9 o fim do seu mandato para combater a recess\xc3\xa3o e promover o crescimento econ\xc3\xb4mico. Em um discurso no qual comemorou a aprova\xc3\xa7\xc3\xa3o da proposta que estabelece um teto para os gastos p\xc3\xbablicos, Temer comentou o pedido feito ontem ao procurador-geral da Rep\xc3\xbablica, Rodrigo Janot, para que acelerasse a coleta dos depoimentos e homologasse eventuais dela\xc3\xa7\xc3\xb5es de executivos da construtora Odebrecht, no \xc3\xa2mbito da Opera\xc3\xa7\xc3\xa3o Lava Jato.'
+b'Admitindo haver conflitos no pa\xc3\xads e mencionando o requerimento enviado a Janot, Temer disse que as acusa\xc3\xa7\xc3\xb5es n\xc3\xa3o podem paralisar o pa\xc3\xads. Ele disse que em contrapartida a essas not\xc3\xadcias, o governo vai anunciar novas medidas econ\xc3\xb4micas, al\xc3\xa9m de j\xc3\xa1 ter enviado propostas de ajuste fiscal ao Congresso.'
+b'"H\xc3\xa1 conflitos, h\xc3\xa1 problemas no pa\xc3\xads? H\xc3\xa1. N\xc3\xa3o podemos mant\xc3\xaa-los indefinidamente. N\xc3\xa3o foi sem raz\xc3\xa3o que ainda ontem pedi que as coisas todas muitas vezes acusat\xc3\xb3rias venham logo \xc3\xa0 luz. Vindo logo, quem for acusado poder\xc3\xa1 defender-se, explicar-se, que seja. Esta \xc3\xa9 a primeira fase da chamada acusa\xc3\xa7\xc3\xa3o. A acusa\xc3\xa7\xc3\xa3o \xc3\xa9 um longo processo, onde h\xc3\xa1 defesa, isso e aquilo. Ent\xc3\xa3o n\xc3\xa3o podemos deixar que isso paralise o pa\xc3\xads, e n\xc3\xa3o permitiremos que isso aconte\xc3\xa7a. Pode acontecer, pode vir a not\xc3\xadcia que vier, o pa\xc3\xads n\xc3\xa3o ficar\xc3\xa1 paralisado", afirmou.'
+b'Nessa segunda-feira (12), Temer criticou o vazamento de dela\xc3\xa7\xc3\xb5es premiadas e solicitou que as investiga\xc3\xa7\xc3\xb5es sejam conclu\xc3\xaddas "o quanto antes" para que o pa\xc3\xads supere o clima atual, classificado por ele de "desconfian\xc3\xa7a geradora de incerteza".\n\nTemer disse que "talvez" j\xc3\xa1 nesta quinta-feira (15) lance "v\xc3\xa1rias medidas" que est\xc3\xa3o sendo preparadas neste fim de ano "que visem a dinamiza\xc3\xa7\xc3\xa3o da nossa economia". Como exemplo, ele citou iniciativas lan\xc3\xa7adas hoje como a inje\xc3\xa7\xc3\xa3o de R$ 3 bilh\xc3\xb5es em recursos para a moderniza\xc3\xa7\xc3\xa3o de parte da frota de \xc3\xb4nibus coletivos e o acr\xc3\xa9scimo de R$ 5 bilh\xc3\xb5es em cr\xc3\xa9dito para micro, pequenas e m\xc3\xa9dias empresas.'
+b'Ao citar a reforma da Previd\xc3\xaancia, enviada ao Congresso Nacional na semana passada, ele disse que o governo ser\xc3\xa1 "obediente" ao que o parlamento deliberar, pois l\xc3\xa1 \xc3\xa9 o "palco para esta discuss\xc3\xa3o". Em um discurso que citou v\xc3\xa1rias vezes a palavra coragem, o presidente disse que o governo tem enfrentado adversidades mas, no futuro, conseguir\xc3\xa1 o objetivo de promover o crescimento.\n\n"A esta altura n\xc3\xa3o nos descuidamos da economia [...]. Quando eu digo que o pa\xc3\xads n\xc3\xa3o ficar\xc3\xa1 paralisado, contra o argumento eu apresento um fato, [e os fatos s\xc3\xa3o] propostas apresentadas ao Congresso e os valores sendo disponibilizados para crescimento do pa\xc3\xads. N\xc3\xb3s vamos prosseguir com os mesmos crit\xc3\xa9rios em todos os dias do ano para que daqui a dois anos se possa dizer: O Brasil venceu", concluiu.'
+Article 11 printed
+
+
+************************************
+
+
+b'http://agenciabrasil.ebc.com.br/cultura/noticia/2016-12/dialogo-brasil-debate-descriminalizacao-do-aborto'
+b'Di\xc3\xa1logo Brasil debate a descriminaliza\xc3\xa7\xc3\xa3o do aborto'
+b'13/12/2016 07h37'
+b'D\xc3\xa9bora Teles Brito - Rep\xc3\xb3rter da Ag\xc3\xaancia Brasil'
+b'O programa Di\xc3\xa1logo Brasil, da TV Brasil, desta ter\xc3\xa7a-feira (13) debate a descriminaliza\xc3\xa7\xc3\xa3o do aborto. A pol\xc3\xaamica em torno do tema reacendeu depois do julgamento recente da primeira turma do Supremo Tribunal Federal que revogou a pris\xc3\xa3o preventiva de profissionais de sa\xc3\xbade de uma cl\xc3\xadnica clandestina que realizava procedimentos de aborto em Duque de Caxias (RJ). Nesse caso espec\xc3\xadfico, os ju\xc3\xadzes entenderam que a interrup\xc3\xa7\xc3\xa3o da gravidez at\xc3\xa9 o terceiro m\xc3\xaas de gesta\xc3\xa7\xc3\xa3o n\xc3\xa3o \xc3\xa9 considerada crime.'
+b'A decis\xc3\xa3o gerou a expectativa de descriminaliza\xc3\xa7\xc3\xa3o do aborto no Brasil. Atualmente, a interrup\xc3\xa7\xc3\xa3o legal da gravidez no pa\xc3\xads est\xc3\xa1 prevista apenas em casos de estupro, risco de vida da m\xc3\xa3e e fetos sem c\xc3\xa9rebro. O caso provocou forte rea\xc3\xa7\xc3\xa3o da C\xc3\xa2mara dos Deputados, que formou uma comiss\xc3\xa3o especial com o objetivo de analisar o tema.'
+b'Para debater os desdobramentos do assunto, o Di\xc3\xa1logo Brasil convidou a soci\xc3\xb3loga Jol\xc3\xbazia Batista, do Centro Feminista de Estudos e Assessoria (Cefmea), e a professora do Departamento de Biologia Celular da Universidade de Bras\xc3\xadlia (UnB) Lenise Garcia, que tamb\xc3\xa9m \xc3\xa9 presidente do Movimento Nacional da Cidadania pela Vida Brasil sem Aborto. O programa vai ao ar \xc3\xa0s 20h30, na TV Brasil.'
+Article 12 printed
+
+
+************************************
+
+
+b'http://agenciabrasil.ebc.com.br/es/politica/noticia/2016-12/brasil-temer-insta-fiscalia-acelerar-investigaciones'
+b'Brasil: Temer insta a Fiscal\xc3\xada acelerar investigaciones'
+b'12/12/2016 19h51'
+b'Paulo Victor Chagas \xe2\x80\x93 Reportero de Ag\xc3\xaancia Brasil'
+b'Presidente Michel Temer Antonio Cruz/ Ag\xc3\xaancia Brasil'
+b'En medio de revelaciones sobre delaciones de ejecutivos de Odebrecht, en el marco de la Operaci\xc3\xb3n Autolavado, que involucran a diversos pol\xc3\xadticos, el presidente Michel Temer inst\xc3\xb3 al fiscal general de la Rep\xc3\xbablica, Rodrigo Janot, acelerar los testimonios de investigados al Ministerio P\xc3\xbablico Federal y poner fin \xe2\x80\x9ccuanto antes\xe2\x80\x9d a los procesos de homologaci\xc3\xb3n de acuerdos de delaci\xc3\xb3n compensada.'
+b'Bajo el argumento de que el pa\xc3\xads atraviesa \xe2\x80\x9cgraves crisis econ\xc3\xb3micas y pol\xc3\xadticas\xe2\x80\x9d, el mandatario critic\xc3\xb3 la filtraci\xc3\xb3n de delaciones y dijo que las medidas de ajuste fiscal impulsadas por el gobierno \xe2\x80\x9cviene sufriendo interferencias por la ileg\xc3\xadtima divulgaci\xc3\xb3n\xe2\x80\x9d de testimonios de delatores. Seg\xc3\xban \xc3\xa9l, mientras las delaciones no sean completadas y homologadas, el pa\xc3\xads seguir\xc3\xa1 en un clima de desconfianza e incertidumbre".'
+b'El viernes pasado (9), se dieron a conocer informaciones sobre el testimonio prestado por exvicepresidente de Relaciones Instituciones de Odebrecht, Cl\xc3\xa1udio Melo Filho, al grupo de trabajo de la Operaci\xc3\xb3n Autolavado. De acuerdo con reportajes divulgados en los \xc3\xbaltimos d\xc3\xadas, el ejecutivo de la constructora m\xc3\xa1s grande de Brasil afirm\xc3\xb3 que, en 2014, entreg\xc3\xb3 dinero en efectivo al abogado Jos\xc3\xa9 Yunes, amigo y uno de los colaboradores m\xc3\xa1s cercanos de Temer.'
+b'Los cargos tambi\xc3\xa9n incluyen a otras importantes figuras del gobierno, como el ministro de la Casa Civil, Eliseu Padilha, el exministro de Planificaci\xc3\xb3n, Romero Juc\xc3\xa1, y el exministro de la Secretar\xc3\xada de Gobierno, Geddel Vieira Lima, tambi\xc3\xa9n del PMDB. Todos niegan irregularidades.'
+b'La solicitud, firmada por el propio Temer, fue enviada este lunes (12) a Rodrigo Janot a trav\xc3\xa9s de la abogada general de la Uni\xc3\xb3n, Grace Mendon\xc3\xa7a.'
+b'Traducci\xc3\xb3n: Lucas Magdiel'
+Article 13 printed
+
+
+************************************
+
+
+b'http://agenciabrasil.ebc.com.br/geral/noticia/2016-12/sobreviventes-do-voo-da-chapecoense-comecam-voltar-ao-brasil'
+b'Sobreviventes do voo da Chapecoense come\xc3\xa7am a voltar ao Brasil'
+b'12/12/2016 14h40'
+b'Andreia Verd\xc3\xa9lio \xe2\x80\x93 Rep\xc3\xb3rter da Ag\xc3\xaancia Brasil*'
+b'Avi\xc3\xa3o da empresa boliviana Lamia, fretado pela Chapecoense para transportar sua equipe. Setenta e uma pessoas morreram no acidente na Col\xc3\xb4mbia              Divulga\xc3\xa7\xc3\xa3o/ Cleberson Silva/ Chapecoense'
+b'O goleiro Jackson Follmann, um dos sobreviventes do acidente com o voo da Chapecoense, ser\xc3\xa1 transferido hoje (12) da Col\xc3\xb4mbia para o Brasil. A sa\xc3\xadda da Col\xc3\xb4mbia est\xc3\xa1 marcada para \xc3\xa0s 15h (hor\xc3\xa1rio de Bras\xc3\xadlia), mas, segundo a assessoria da Chapecoense, ainda n\xc3\xa3o h\xc3\xa1 previs\xc3\xa3o de chegada a S\xc3\xa3o Paulo, pois as escalas n\xc3\xa3o foram confirmadas.'
+b'Follmann ser\xc3\xa1 acompanhado por uma equipe m\xc3\xa9dica, pelo m\xc3\xa9dico do clube, Marcos Sonaglio, e por um familiar. Segundo Sonaglio, o jogador est\xc3\xa1 na Unidade de Tratamento Intensivo (UTI) e foi feito um curativo na regi\xc3\xa3o da amputa\xc3\xa7\xc3\xa3o em uma das pernas. O atleta ser\xc3\xa1 levado para S\xc3\xa3o Paulo, onde continuar\xc3\xa1 o tratamento no Hospital Albert Einstein.'
+b'J\xc3\xa1 o jogador Alan Ruschel e o jornalista Rafael Henzel est\xc3\xa3o bem, j\xc3\xa1 no quarto, e ser\xc3\xa3o trazidos amanh\xc3\xa3 (13) para o Brasil, pela For\xc3\xa7a A\xc3\xa9rea Brasileira (FAB). A previs\xc3\xa3o \xc3\xa9 que a aeronave VC-99 Legacy chegue por volta das 21h em Chapec\xc3\xb3 (SC). O avi\xc3\xa3o ser\xc3\xa1 adaptadoa para o transporte de duas UTIs m\xc3\xb3veis, com acompanhamento de m\xc3\xa9dicos da Chapecoense e da FAB, especializados em transporte aerom\xc3\xa9dico.'
+b'Zagueiro ainda inspira cuidados m\xc3\xa9dicos'
+b'H\xc3\xa9lio Zampier Neto, zagueiro da Chapecoense, ainda est\xc3\xa1 na UTI e inspira cuidados. Mas, segundo Sonaglio, ele n\xc3\xa3o est\xc3\xa1 mais entubado e est\xc3\xa1 acordado. O atleta foi o \xc3\xbaltimo a ser resgatado e ainda vai permanecer em Medell\xc3\xadn, na Col\xc3\xb4mbia, at\xc3\xa9 ter condi\xc3\xa7\xc3\xb5es de retornar ao Brasil.'
+b'O voo que levava o time da Chapecoense caiu no dia 29 de novembro, quando chegava a Medell\xc3\xadn. Setenta e uma pessoas, entre passageiros e tripulantes, morreram e seis ficaram feridas \xe2\x80\x93 quatro brasileiras e dois tripulantes bolivianos.'
+Article 14 printed
+
+
+************************************
+
+
+b'http://agenciabrasil.ebc.com.br/es/geral/noticia/2016-12/brasil-inaugura-nuevo-centro-de-produccion-de-medicamentos'
+b'Brasil inaugura nuevo centro de producci\xc3\xb3n de medicamentos'
+b'12/12/2016 12h15'
+b'Alana Gandra \xe2\x80\x93 Reportera de Ag\xc3\xaancia Brasil'
+b'El nuevo centro de producci\xc3\xb3n de medicamentos, inaugurado el viernes (9) en una colaboraci\xc3\xb3n entre el Instituto de Tecnolog\xc3\xada de Inmunobiol\xc3\xb3gicos (Bio-Manguinhos) y la Fundaci\xc3\xb3n Instituto Oswaldo Cruz (Fiocruz)'
+b'El nuevo centro de producci\xc3\xb3n de medicamentos, inaugurado el viernes (9) en una colaboraci\xc3\xb3n entre el Instituto de Tecnolog\xc3\xada de Inmunobiol\xc3\xb3gicos (Bio-Manguinhos) y la Fundaci\xc3\xb3n Instituto Oswaldo Cruz (Fiocruz), beneficiar\xc3\xa1 principalmente a los brasile\xc3\xb1os atendidos por el Sistema Unificado de Salud (SUS), que depende de productos biofarmac\xc3\xa9uticos y kits de diagn\xc3\xb3stico r\xc3\xa1pido. El anuncio fue hecho por el director de Bio-Manguinhos, Arthur Roberto Couto.'
+b'"En realidad, toda nuestra producci\xc3\xb3n est\xc3\xa1 orientada hacia el SUS", coment\xc3\xb3, agregando que la producci\xc3\xb3n de prototipos se centra en la cadena de innovaci\xc3\xb3n, integrada por universidades, centros de investigaci\xc3\xb3n y socios privados.'
+b'Cadena de producci\xc3\xb3n completa'
+b'Seg\xc3\xban Couto, como parte de las Asociaciones de Desarrollo Productivo (PDPs, por sus siglas en portugu\xc3\xa9s), dirigidas a la incorporaci\xc3\xb3n de tecnolog\xc3\xada, el nuevo centro facilita ese proceso, "porque era el v\xc3\xadnculo que necesit\xc3\xa1bamos para dotar al pa\xc3\xads de una producci\xc3\xb3n de productos biofarmac\xc3\xa9uticos a nivel nacional, abarcando desde la materia prima hasta el producto final. Eso permitir\xc3\xa1 reducir considerablemente los costos, una vez que un laboratorio p\xc3\xbablico est\xc3\xa1 produciendo, suministrando y proveyendo acceso a un precio mucho menor".'
+b'De acuerdo con las cifras divulgadas por Bio-Manguinhos, el mercado internacional de medicamentos biol\xc3\xb3gicos crece un 12% al a\xc3\xb1o, y pone en circulaci\xc3\xb3n cerca de US$ 160 mil millones cada a\xc3\xb1o. En Brasil, la inversi\xc3\xb3n del Ministerio de Salud en la compra de productos farmac\xc3\xa9uticos se elev\xc3\xb3 de US$ 2 mil millones a US$ 4,6 millones entre 2010 y 2015, y de este total, de los cuales el 51% se destinan a la compra de productos biol\xc3\xb3gicos. Arthur Couto dijo que la expansi\xc3\xb3n del mercado externo de biol\xc3\xb3gicos es crucial pese al impacto significativo que tendr\xc3\xa1 sobre el SUS, ya que representa un salto cualitativo enorme respecto a las condiciones de hoy y puede ayudar a reducir o incluso a curar enfermedades como el c\xc3\xa1ncer y la artritis reumatoide. "Y eso es algo que el SUS requiere de nosotros".'
+b'El nuevo centro fue bautizado como Henrique Penna, en homenaje al investigador m\xc3\xa9dico que trabaj\xc3\xb3 en el desarrollo y la producci\xc3\xb3n de la vacuna contra la fiebre amarilla en Brasil.'
+b'Reducci\xc3\xb3n de costes'
+b'Couto record\xc3\xb3 que el papel de Bio-manguinhos como una empresa p\xc3\xbablica es ampliar la disponibilidad de productos a precios m\xc3\xa1s bajos para hacerlos m\xc3\xa1s asequibles a la poblaci\xc3\xb3n. "No debemos estar limitados por nuestros gastos, lo que sucede mucho".'
+b'Se\xc3\xb1al\xc3\xb3 que el d\xc3\xa9ficit comercial de productos biofarmac\xc3\xa9uticos ha alcanzado aproximadamente US$ 2 mil millones en 2015 y que hay un gran d\xc3\xa9ficit en la atenci\xc3\xb3n m\xc3\xa9dica, aunque cree que el nuevo centro puede ayudar a reducirlo. "Ahora cubriremos toda la cadena, desde la producci\xc3\xb3n de las materias primas hasta el etiquetado y el suministro de los productos. Ese es un logro incre\xc3\xadble. Tendremos productos ya listos para entrar en esta nueva planta".'
+b'El nuevo centro fue bautizado como Henrique Penna, en homenaje al investigador m\xc3\xa9dico que trabaj\xc3\xb3 en el desarrollo y la producci\xc3\xb3n de la vacuna contra la fiebre amarilla en Brasil.'
+b'Traducci\xc3\xb3n: Lucas Magdiel'
+Article 15 printed
+
+
+************************************
+
+
+b'http://agenciabrasil.ebc.com.br/economia/noticia/2016-12/onu-esta-preocupada-com-retrocesso-no-combate-pobreza-no-brasil'
+b'ONU teme retrocesso no combate \xc3\xa0 pobreza no Brasil'
+b'12/12/2016 11h49'
+b'Fernanda Cruz \xe2\x80\x93 Rep\xc3\xb3rter da Ag\xc3\xaancia Brasil'
+b'O Programa das Na\xc3\xa7\xc3\xb5es Unidas para o Desenvolvimento (Pnud) est\xc3\xa1 atento a um poss\xc3\xadvel retrocesso nas a\xc3\xa7\xc3\xb5es de combate \xc3\xa0 pobreza no Brasil diante da atual crise econ\xc3\xb4mica, afirmou a representante do programa no pa\xc3\xads, Maristela Baioni.'
+b'\xe2\x80\x9cTivemos redu\xc3\xa7\xc3\xa3o [da pobreza], nos \xc3\xbaltimos anos, mas, com a crise de hoje, h\xc3\xa1 o risco de a popula\xc3\xa7\xc3\xa3o voltar aos n\xc3\xadveis de pobreza anteriores\xe2\x80\x9d, disse Maristela que participou hoje (12) do semin\xc3\xa1rio Di\xc3\xa1logos sobre Prosperidade: Parcerias para o Desenvolvimento Sustent\xc3\xa1vel, realizado na BM&F Bovespa, na capital paulista.'
+b'Segundo o Radar IDHM (\xc3\x8dndice de Desenvolvimento Humano Municipal), estudo do Pnud divulgado no m\xc3\xaas passado, a propor\xc3\xa7\xc3\xa3o de pessoas com renda domiciliar per capita inferior a R$ 255, entre 2011 e 2014, diminuiu 9,3% por ano. No per\xc3\xadodo de 2000 a 2010, o decr\xc3\xa9scimo anual foi de 3,9%.'
+b'A redu\xc3\xa7\xc3\xa3o da pobreza e temas como desigualdade social, corrup\xc3\xa7\xc3\xa3o, viol\xc3\xaancia crescente, degrada\xc3\xa7\xc3\xa3o do meio ambiente e d\xc3\xa9ficit de infraestrutura integram a Agenda 2030 e os 17 Objetivos de Desenvolvimento Sustent\xc3\xa1vel. Essas metas foram adotadas por 193 pa\xc3\xadses-membros das Na\xc3\xa7\xc3\xb5es Unidas, incluindo o Brasil, a partir da Rio+20, em 2012.'
+b'Didier Trebucq, diretor do Pnud, defende que o Brasil aumente os esfor\xc3\xa7os para a promo\xc3\xa7\xc3\xa3o do desenvolvimento humano, j\xc3\xa1 que mais de 224 milh\xc3\xb5es de latinos correm o risco de voltar \xc3\xa0 pobreza, ou seja, 35% da popula\xc3\xa7\xc3\xa3o latina. \xe2\x80\x9cPrecisamos de medidas que permitam refor\xc3\xa7ar a inclus\xc3\xa3o produtiva\xe2\x80\x9d, disse.'
+b'Segundo ele, atrair novos modelos de neg\xc3\xb3cios e estrat\xc3\xa9gias ajudam no desenvolvimento econ\xc3\xb4mico. Por isso, o programa fez um acordo de coopera\xc3\xa7\xc3\xa3o t\xc3\xa9cnica com 2 mil micro e pequenas empresas, como forma de impulsionar o setor e a economia do pa\xc3\xads.'
+b'J\xc3\xa1 a coordenadora da Secretaria do Programa de Parcerias e Investimento da Presid\xc3\xaancia da Rep\xc3\xbablica, Vanialucia Lins, disse que o governo quer impulsionar as concess\xc3\xb5es e parcerias p\xc3\xbablico-privadas, capacitando servidores e levando mais informa\xc3\xa7\xc3\xa3o \xc3\xa0 popula\xc3\xa7\xc3\xa3o.'
+b'\xe2\x80\x9cOs desafios s\xc3\xa3o grandes, porque tem v\xc3\xa1rias resist\xc3\xaancias ideol\xc3\xb3gicas. Felizmente, a sociedade discute, agora, gastos, como a reforma da Previd\xc3\xaancia. Isso \xc3\xa9 importante porque os gastos n\xc3\xa3o s\xc3\xa3o ilimitados\xe2\x80\x9d, disse.'
+Article 16 printed
+
+
+************************************
+
+
+b'http://agenciabrasil.ebc.com.br/geral/noticia/2016-12/brasil-envia-medicamentos-e-vacinas-ao-haiti'
+b'Brasil envia medicamentos e vacinas ao Haiti'
+b'09/12/2016 12h05'
+b'Paula Laboissi\xc3\xa8re - Rep\xc3\xb3rter da Ag\xc3\xaancia Brasil'
+b''
+b'Segundo o Itamaraty, os donativos s\xc3\xa3o parte da coopera\xc3\xa7\xc3\xa3o brasileira com o Haiti e foram enviados ao pa\xc3\xads em raz\xc3\xa3o da passagem do furac\xc3\xa3o Matthew em outubro passadoOrlando Barria/EPA/Ag\xc3\xaancia Lusa/direitos reservados'
+b'O governo brasileiro enviou ao Haiti mais de 18 mil unidades de medicamentos, testes r\xc3\xa1pidos para HIV, materiais de uso hospitalar e cerca de 4 mil doses de vacina contra a c\xc3\xb3lera. A informa\xc3\xa7\xc3\xa3o foi divulgada hoje (9) pelo Minist\xc3\xa9rio das Rela\xc3\xa7\xc3\xb5es Exteriores.'
+b'De acordo com a pasta, as doa\xc3\xa7\xc3\xb5es seguiram em avi\xc3\xa3o da For\xc3\xa7a A\xc3\xa9rea Brasileira que partiu do Rio de Janeiro ontem (8), transportando militares para o rod\xc3\xadzio do Batalh\xc3\xa3o Brasileiro de Infantaria de For\xc3\xa7a de Paz que integra a Miss\xc3\xa3o das Na\xc3\xa7\xc3\xb5es Unidas para a Estabiliza\xc3\xa7\xc3\xa3o no Haiti.'
+b'Segundo o Itamaraty, os donativos s\xc3\xa3o parte da coopera\xc3\xa7\xc3\xa3o brasileira com o Haiti e foram enviados ao pa\xc3\xads em raz\xc3\xa3o da passagem do furac\xc3\xa3o Matthew em outubro passado.'
+b'\xe2\x80\x9cA nova doa\xc3\xa7\xc3\xa3o integra a resposta humanit\xc3\xa1ria do governo brasileiro a essa cat\xc3\xa1strofe socioambiental, que j\xc3\xa1 contou com doa\xc3\xa7\xc3\xb5es financeiras no total de US$ 400 mil ao Programa Mundial de Alimentos das Na\xc3\xa7\xc3\xb5es Unidas".'
+b'O envio dos medicamentos e insumos foi feito por meio de parceria entre os minist\xc3\xa9rios da Sa\xc3\xbade, da Defesa e das Rela\xc3\xa7\xc3\xb5es Exteriores. '
+Article 17 printed
+
+
+************************************
+
+
+b'http://agenciabrasil.ebc.com.br/geral/noticia/2016-05/agencia-brasil-volta-ao-ar-0'
+b'Ag\xc3\xaancia Brasil volta ao ar'
+b'23/05/2016 12h39'
+b''
+b'A Ag\xc3\xaancia Brasil ficou fora do ar desde as 10h45 por problemas t\xc3\xa9cnicos. Pedimos desculpas pelo transtorno.'
+Article 18 printed
+
+
+************************************
+
+
+b'http://agenciabrasil.ebc.com.br/es/internacional/noticia/2016-12/brasil-envia-medicinas-y-vacunas-haiti'
+b'Brasil env\xc3\xada medicinas y vacunas a Hait\xc3\xad'
+b'08/12/2016 09h29'
+b'Ag\xc3\xaancia Brasil'
+b'En octubre, el hurac\xc3\xa1n Mateo sacudi\xc3\xb3 a Hait\xc3\xad con vientos de 235 kil\xc3\xb3metros por hora,Foto Logan Abassi/Minustah'
+b'El gobierno brasile\xc3\xb1o enviar\xc3\xa1 este jueves (8) medicinas y suministros a Hait\xc3\xad para ayudar en la recuperaci\xc3\xb3n del pa\xc3\xads tras el paso en octubre del hurac\xc3\xa1n Mateo. Adem\xc3\xa1s de medicamentos y casi cuatro mil dosis de vacuna contra el c\xc3\xb3lera, los haitianos tambi\xc3\xa9n recibir\xc3\xa1n un millar de pruebas r\xc3\xa1pidas de VIH.'
+b'Seg\xc3\xban el Ministerio de Salud, los env\xc3\xados podr\xc3\xa1n atender a 3 mil personas. La Organizaci\xc3\xb3n Mundial de la Salud lleg\xc3\xb3 a reportar, en octubre, la preocupaci\xc3\xb3n por la posibilidad de una epidemia de c\xc3\xb3lera en el pa\xc3\xads, debido a las inundaciones causadas por el hurac\xc3\xa1n.'
+b'\xe2\x80\x9cAntes del hurac\xc3\xa1n, ten\xc3\xadamos serios problemas de acceso a salud, agua y saneamiento, adem\xc3\xa1s de los casos de c\xc3\xb3lera. Y cuando se interrumpe el suministro de agua, aumentan los casos de c\xc3\xb3lera. Nos preocupamos seriamente por una epidemia\xe2\x80\x9d, comunic\xc3\xb3 en aquel entonces el representante de la Organizaci\xc3\xb3n Panamericana de la Salud (OPS) en Hait\xc3\xad, Jean-Luc Poncelet.'
+b'En octubre, el hurac\xc3\xa1n Mateo sacudi\xc3\xb3 a Hait\xc3\xad con vientos de 235 kil\xc3\xb3metros por hora, dejando rastros de destrucci\xc3\xb3n en todo el Caribe y el sudeste de los Estados Unidos. M\xc3\xa1s de 1,3 millones de haitianos se vieron afectados por el hurac\xc3\xa1n y necesitan ayuda humanitaria, por lo que la OPS inform\xc3\xb3 que se movilizaron equipos multinacionales de expertos.'
+b'Traducci\xc3\xb3n: Leonardo Vieira'
+Article 19 printed
+
+
+************************************
+
+
+b'http://agenciabrasil.ebc.com.br/internacional/noticia/2016-12/brasil-enviara-remedios-e-vacina-para-haiti'
+b'Brasil enviar\xc3\xa1 rem\xc3\xa9dios e vacina para Haiti'
+b'07/12/2016 21h03'
+b'Da Ag\xc3\xaancia Brasil'
+b''
+b'O governo brasileiro vai enviar amanh\xc3\xa3 (8) medicamentos e insumos ao Haiti para ajudar na recupera\xc3\xa7\xc3\xa3o do pa\xc3\xads ap\xc3\xb3s a passagem do Furac\xc3\xa3o Matthew, em outubro. Al\xc3\xa9m de rem\xc3\xa9dios e quase quatro mil doses de vacina contra c\xc3\xb3lera, os haitianos tamb\xc3\xa9m receber\xc3\xa3o mil testes r\xc3\xa1pidos de HIV.'
+b'Segundo o Minist\xc3\xa9rio da Sa\xc3\xbade, os rem\xc3\xa9dios enviados poder\xc3\xa3o atender 3 mil pessoas. A Organiza\xc3\xa7\xc3\xa3o Mundial da Sa\xc3\xbade chegou a comunicar a preocupa\xc3\xa7\xc3\xa3o com a possibilidade de uma epidemia de c\xc3\xb3lera no pa\xc3\xads, em decorr\xc3\xaancia das inunda\xc3\xa7\xc3\xb5es provocadas pela passagem do furac\xc3\xa3o.'
+b'O Furac\xc3\xa3o Matthew atingiu o Haiti no come\xc3\xa7o de outubro com ventos de at\xc3\xa9 230 km/h. O pa\xc3\xads calcula que cerca de 900 pessoas morreram e milhares ficaram feridos e desabrigados.'
+Article 20 printed
+
+
+************************************
+
+
+b'http://agenciabrasil.ebc.com.br/geral/noticia/2016-05/agencia-brasil-volta-ao-ar'
+b'Ag\xc3\xaancia Brasil volta ao ar'
+b'13/05/2016 19h18'
+b''
+b'A Ag\xc3\xaancia Brasil ficou fora do ar por mais de tr\xc3\xaas horas na tarde de hoje (13) por problemas t\xc3\xa9cnicos. Pedimos desculpas pelo transtorno '
+Article 21 printed
+
+
+************************************
+
+
+b'http://agenciabrasil.ebc.com.br/internacional/noticia/2016-12/corpos-de-jornalistas-da-foxsports-ja-estao-caminho-do-brasil'
+b'Corpos de jornalistas da FoxSports j\xc3\xa1 est\xc3\xa3o a caminho do Brasil'
+b'02/12/2016 15h03'
+b'Andr\xc3\xa9ia Verd\xc3\xa9lio \xe2\x80\x93 Rep\xc3\xb3rter da Ag\xc3\xaancia Brasil'
+b''
+b'Os corpos de seis jornalistas da FoxSports que morreram na queda do avi\xc3\xa3o da Lamia na \xc3\xbaltima ter\xc3\xa7a-feira (29) j\xc3\xa1 deixaram Medell\xc3\xadn em dire\xc3\xa7\xc3\xa3o \xc3\xa0 S\xc3\xa3o Paulo. O voo fretado saiu da Col\xc3\xb4mbia \xc3\xa0s 11h, hor\xc3\xa1rio de Bras\xc3\xadlia. Os corpos de tr\xc3\xaas jornalistas da Globo tamb\xc3\xa9m devem deixar Medell\xc3\xadn entre 21h e 22h de hoje, em voo fretado. Segundo o Itamaraty, eles seguem para Rio de Janeiro e Florian\xc3\xb3polis.'
+b'Na noite de ontem (1\xc2\xba), tamb\xc3\xa9m deixou Medell\xc3\xadn, com destino ao Paraguai, o corpo de um membro da tripula\xc3\xa7\xc3\xa3o. Outros cinco corpos de funcion\xc3\xa1rios da Lamia, um deles cremado, seguiram hoje (2) para a Bol\xc3\xadvia e a Venezuela.'
+b'Tr\xc3\xaas aeronaves H\xc3\xa9rcules da For\xc3\xa7a A\xc3\xa9rea Brasileira (FAB) decolaramde Manaus para a Col\xc3\xb4mbia \xc3\xa0s 13h, para transportar outros corpos das v\xc3\xadtimas ligadas \xc3\xa0 Chapecoense. Na volta, as aeronaves far\xc3\xa3o escala em Manaus e t\xc3\xaam previs\xc3\xa3o para chegar em Chapec\xc3\xb3 na manh\xc3\xa3 do s\xc3\xa1bado (3).'
+Article 22 printed
+
+
+************************************
+
+
+b'http://agenciabrasil.ebc.com.br/internacional/noticia/2016-11/papa-manda-mensagem-ao-brasil-por-tragedia-da-chape'
+b'Papa manda mensagem ao Brasil por trag\xc3\xa9dia da Chapecoense'
+b'30/11/2016 08h56'
+b''
+b''
+b'O papa Francisco enviou hoje (30) uma mensagem ao povo brasileiro por conta do desastre a\xc3\xa9reo com o avi\xc3\xa3o da Chapecoense durante sua audi\xc3\xaancia geral, na pra\xc3\xa7a S\xc3\xa3o Pedro, no Vaticano. O acidente, ocorrido nos arredores de Medell\xc3\xadn, na Col\xc3\xb4mbia, onde a equipe catarinense disputaria a final da Copa Sul-Americana, deixou 71 mortos, incluindo 19 jogadores.'
+b'Papa Francisco homenageia as v\xc3\xadtimas do acidente a\xc3\xa9reo com o avi\xc3\xa3o da Chapecoense, que matou 71 pessoasAg\xc3\xaancia Lusa/EPA/Giuseppe Lami/Direitos Reservados'
+b'"Gostaria de lembrar hoje a dor do povo brasileiro pela trag\xc3\xa9dia com um clube local e rezar pelos jogadores mortos e suas fam\xc3\xadlias", disse o l\xc3\xadder da Igreja Cat\xc3\xb3lica. '
+b'Al\xc3\xa9m disso, o Pont\xc3\xadfice comparou a trag\xc3\xa9dia da Chapecoense com o desastre que matou todo o elenco do Torino em 1949, quando um avi\xc3\xa3o com a delega\xc3\xa7\xc3\xa3o da equipe italiana se chocou contra a Bas\xc3\xadlica de Superga, em Turim. Na ocasi\xc3\xa3o, 31 pessoas faleceram. "Recordemos Superga. S\xc3\xa3o trag\xc3\xa9dias duras, rezemos por elas", acrescentou o Papa.'
+b'Ontem (29), Francisco j\xc3\xa1 havia enviado uma mensagem de condol\xc3\xaancias ao bispo da diocese colombiana de Sons\xc3\xb3n Rionegro, Fidel Le\xc3\xb3n Cadavid Mar\xc3\xadn.'
+b'"O Santo Padre, profundamente atingido ao saber da dolorosa not\xc3\xadcia do grave acidente a\xc3\xa9reo que ocasionou numerosas v\xc3\xadtimas, eleva ora\xc3\xa7\xc3\xb5es para o eterno descanso dos falecidos", diz a nota enviada \xc3\xa0 Confer\xc3\xaancia Episcopal da Col\xc3\xb4mbia.'
+b'A delega\xc3\xa7\xc3\xa3o da Chapecoense viajava em um avi\xc3\xa3o da empresa Lamia, surgida na Venezuela, mas que agora \xc3\xa9 baseada na Bol\xc3\xadvia. As causas da trag\xc3\xa9dia est\xc3\xa3o sendo investigadas, mas suspeita-se de pane seca ou el\xc3\xa9trica.'
+b'Em sua trajet\xc3\xb3ria rumo \xc3\xa0 final da Sul-Americana, o "Verd\xc3\xa3o do Oeste" havia eliminado inclusive o San Lorenzo, time de cora\xc3\xa7\xc3\xa3o de Jorge Bergoglio. '
+Article 23 printed
+
+
+************************************
+
+
+b'http://agenciabrasil.ebc.com.br/geral/noticia/2016-11/embaixada-do-brasil-em-bogota-desloca-funcionarios-medellin'
+b'Embaixada do Brasil em Bogot\xc3\xa1 desloca funcion\xc3\xa1rios a Medell\xc3\xadn'
+b'29/11/2016 12h40'
+b'Mariana Tokarnia - Rep\xc3\xb3rter da Ag\xc3\xaancia Brasil'
+b'A Embaixada do Brasil em Bogot\xc3\xa1 deslocou funcion\xc3\xa1rios a Medell\xc3\xadn com o intuito de prestar toda a assist\xc3\xaancia necess\xc3\xa1ria \xc3\xa0s v\xc3\xadtimas e a seus parentes e dar apoio ao traslado dos corpos ao Brasil, informou em nota o Minist\xc3\xa9rio das Rela\xc3\xa7\xc3\xb5es Exteriores. Eles ser\xc3\xa3o chefiados pelo embaixador Julio Bitelli.'
+b'De acordo com o \xc3\xb3rg\xc3\xa3o, funcion\xc3\xa1rios do Itamaraty em Bras\xc3\xadlia tamb\xc3\xa9m viajar\xc3\xa3o a Medell\xc3\xadn para refor\xc3\xa7ar a equipe de apoio.'
+b'Oitenta e uma pessoas estavam a bordo e 75 morreram, segundo as autoridades colombianas. A equipe do Chapecoense viajava para Medell\xc3\xadn, onde disputaria a primeira final da Copa Sul-Americana, contra o Atl\xc3\xa9tico Nacional, amanh\xc3\xa3 (30) \xc3\xa0 noite. O segundo jogo seria em Curitiba.'
+b'Em comunicado, o aeroporto de Medell\xc3\xadn diz que o avi\xc3\xa3o, com matr\xc3\xadcula da Bol\xc3\xadvia, "declarou emerg\xc3\xaancia" \xc3\xa0s 22h, no hor\xc3\xa1rio local, "por falhas t\xc3\xa9cnicas", de acordo com a transmiss\xc3\xa3o feita para a torre de controle. O avi\xc3\xa3o tinha sa\xc3\xaddo do Aeroporto Viru Viru, de Santa Cruz de la Sierra, na Bol\xc3\xadvia, onde realizou uma escala t\xc3\xa9cnica.'
+b'Pesar'
+b'Na nota, o Itamaraty manifesta "seu profundo pesar pelo tr\xc3\xa1gico acidente a\xc3\xa9reo ocorrido na Col\xc3\xb4mbia, que vitimou jogadores, comiss\xc3\xa3o t\xc3\xa9cnica e dirigentes da Associa\xc3\xa7\xc3\xa3o Chapecoense de Futebol, bem como jornalistas e tripulantes que acompanhavam a delega\xc3\xa7\xc3\xa3o".'
+b'O \xc3\xb3rg\xc3\xa3o diz ainda que se soma \xc3\xa0s express\xc3\xb5es de pesar aos parentes das v\xc3\xadtimas e \xc3\xa0 popula\xc3\xa7\xc3\xa3o de Chapec\xc3\xb3 e faz votos de pronto restabelecimento aos sobreviventes.'
+b'O N\xc3\xbacleo de Assist\xc3\xaancia a Brasileiros do Minist\xc3\xa9rio das Rela\xc3\xa7\xc3\xb5es Exteriores est\xc3\xa1 dispon\xc3\xadvel para prestar informa\xc3\xa7\xc3\xb5es e esclarecimentos sobre o acidente nos n\xc3\xbameros (61) 2030-8803 e (61) 2030-8804, e pelo e-mail dac@itamaraty.gov.br.'
+Article 24 printed
+
+
+************************************
+
+
+b'http://agenciabrasil.ebc.com.br/politica/noticia/2016-02/brasil-revoga-sancoes-ao-ira'
+b'Brasil revoga san\xc3\xa7\xc3\xb5es ao Ir\xc3\xa3'
+b'12/02/2016 10h41'
+b'Ana Cristina Campos \xe2\x80\x93 Rep\xc3\xb3rter da Ag\xc3\xaancia Brasil'
+b'A presidenta Dilma Rousseff revogou o regime de san\xc3\xa7\xc3\xb5es da Organiza\xc3\xa7\xc3\xa3o das Na\xc3\xa7\xc3\xb5es Unidas (ONU) ao Ir\xc3\xa3 que tinham sido aplicadas pelo governo brasileiro. O decreto com a revoga\xc3\xa7\xc3\xa3o das san\xc3\xa7\xc3\xb5es foi publicado na edi\xc3\xa7\xc3\xa3o de hoje (12) do Di\xc3\xa1rio Oficial da Uni\xc3\xa3o.'
+b'Segundo o texto, Dilma levou em considera\xc3\xa7\xc3\xa3o a ado\xc3\xa7\xc3\xa3o pelo Conselho de Seguran\xc3\xa7a das Na\xc3\xa7\xc3\xb5es Unidas, em 20 de julho de 2015, da Resolu\xc3\xa7\xc3\xa3o 2.231, que endossou o Plano de A\xc3\xa7\xc3\xa3o Conjunto Abrangente sobre o programa nuclear iraniano, negociado pelo Ir\xc3\xa3, pelos pa\xc3\xadses do P5+1 (Alemanha, China, Fran\xc3\xa7a, Estados Unidos, Reino Unido e R\xc3\xbassia) e pela Uni\xc3\xa3o Europeia.'
+b'No dia 16 de janeiro, a Ag\xc3\xaancia Internacional de Energia At\xc3\xb4mica confirmou que o Ir\xc3\xa3 cumpriu todas as exig\xc3\xaancias do acordo nuclear assinado em julho, em Viena. Ap\xc3\xb3s o an\xc3\xbancio, os Estados Unidos e a Uni\xc3\xa3o Europeia decidiram suspender as san\xc3\xa7\xc3\xb5es ao Ir\xc3\xa3.'
+b'O governo brasileiro dever\xc3\xa1 iniciar em breve negocia\xc3\xa7\xc3\xb5es para novas parcerias comerciais com o Ir\xc3\xa3. O ministro de Minas e Energia, Eduardo Braga, disse ontem (12) que o governo recebeu em novembro correspond\xc3\xaancia em que o governo iraniano manifesta interesse em desenvolver parcerias comerciais com o Brasil que envolvem produtos como tecnologia, autom\xc3\xb3veis e equipamentos brasileiros.'
+b'O assunto ser\xc3\xa1 tratado pelos minist\xc3\xa9rios das Rela\xc3\xa7\xc3\xb5es Exteriores e do Desenvolvimento, Ind\xc3\xbastria e Com\xc3\xa9rcio Exterior. Segundo Braga, o tema foi abordado na manh\xc3\xa3 de ontem, em reuni\xc3\xa3o com a presidenta Dilma Rousseff.'
+Article 25 printed
+
+
+************************************
+
+
+b'http://agenciabrasil.ebc.com.br/politica/noticia/2016-11/brasil-tem-classe-politica-de-excelencia-diz-gilmar-mendes'
+b'Brasil tem \xe2\x80\x9cclasse pol\xc3\xadtica de excel\xc3\xaancia\xe2\x80\x9d, diz Gilmar Mendes'
+b'29/11/2016 14h22'
+b'Felipe Pontes - Rep\xc3\xb3rter da Ag\xc3\xaancia Brasil'
+b''
+b'O ministro do Supremo Tribunal Federal (STF) e presidente do Tribunal Superior Eleitoral (TSE), Gilmar Mendes, defendeu hoje (29) a classe pol\xc3\xadtica brasileira, sem a qual, segundo ele, n\xc3\xa3o haveria a seguran\xc3\xa7a institucional que hoje se observa no pa\xc3\xads.'
+b'Bras\xc3\xadlia - O presidente do Tribunal Superior Eleitoral (TSE) e ministro do Supremo Tribunal Federal (STF), Gilmar Mendes, durante o semin\xc3\xa1rio Di\xc3\xa1logos sobre a Reforma Pol\xc3\xadtica.Marcelo Camargo/Ag\xc3\xaancia Brasil'
+b'Ele discursou durante a abertura de um evento organizado pela Ordem dos Advogados do Brasil (OAB) para debater a reforma pol\xc3\xadtica. \xe2\x80\x9cO Brasil, apesar dos pesares, de todos os problemas, logrou produzir uma classe pol\xc3\xadtica de excel\xc3\xaancia\xe2\x80\x9d, afirmou o magistrado.\n\n\xe2\x80\x9cEstamos prestes a celebrar 30 anos da Constitui\xc3\xa7\xc3\xa3o de 1988, num quadro de normalidade institucional, isso tamb\xc3\xa9m gra\xc3\xa7as \xc3\xa0 habilidade e \xc3\xa0 qualidade de nossos pol\xc3\xadticos\xe2\x80\x9d, disse Mendes. \xe2\x80\x9cN\xc3\xa3o se realiza nem se desenvolve democracia sem pol\xc3\xadtica e sem pol\xc3\xadticos\xe2\x80\x9d, acrescentou.\n\nEm seguida, Mendes foi a uma audi\xc3\xaancia p\xc3\xbablica na C\xc3\xa2mara sobre o mesmo assunto, reforma pol\xc3\xadtica, onde criticou o sistema de financiamento somente por pessoas f\xc3\xadsicas, utilizado pela primeira vez nas elei\xc3\xa7\xc3\xb5es municipais deste ano. O presidente do TSE disse ser \xe2\x80\x9cevidente\xe2\x80\x9d que houve o uso de n\xc3\xbameros de Cadastro de Pessoa F\xc3\xadsica (CPF) de laranjas para alimentar o Caixa 2 de campanhas.\n\nEle afirmou ainda que, na sua convic\xc3\xa7\xc3\xa3o, a Opera\xc3\xa7\xc3\xa3o Lava Jato, respons\xc3\xa1vel por expor as \xe2\x80\x9centranhas\xe2\x80\x9d dos sistema financeiro da pol\xc3\xadtica brasileira, ir\xc3\xa1 obrigar a uma mudan\xc3\xa7a no sistema eleitoral.'
+Article 26 printed
+
+
+************************************
+
+
+b'http://agenciabrasil.ebc.com.br/politica/noticia/2016-11/temer-pede-empresarios-estrangeiros-que-invistam-no-brasil'
+b'Temer pede a empres\xc3\xa1rios estrangeiros que invistam no Brasil'
+b'28/11/2016 21h38'
+b'Paulo Victor Chagas - Rep\xc3\xb3rter da Ag\xc3\xaancia Brasil'
+b'O presidente Michel Temer pediu aos investidores brasileiros e estrangeiros que colaborem para a retirada do pa\xc3\xads da crise e disse que instabilidades ocorridas no pa\xc3\xads, por diferentes motivos, podem "abalar as institui\xc3\xa7\xc3\xb5es" que, segundo ele, n\xc3\xa3o s\xc3\xa3o muito s\xc3\xb3lidas.'
+b'Ao discursar para uma plateia de empres\xc3\xa1rios e membros do mercado financeiro, Temer disse que o capital estrangeiro est\xc3\xa1 "ansioso" para aplicar recursos no pa\xc3\xads, mas que certas instabilidades institucionais t\xc3\xaam atrapalhado esse processo. De acordo com o presidente, esse tipo de instabilidade \xc3\xa9 algo passageiro e n\xc3\xa3o pode ser levada a s\xc3\xa9rio.'
+b'"\xc3\x89 interessante que, de vez em quando, h\xc3\xa1 uma certa instabilidade institucional, um fato ou outro. Como n\xc3\xb3s n\xc3\xa3o temos institui\xc3\xa7\xc3\xb5es muito s\xc3\xb3lidas, qualquer fatozinho, me permitam a express\xc3\xa3o, abala as institui\xc3\xa7\xc3\xb5es. Ent\xc3\xa3o, o investidor fica um pouco assustado, seja nacional, e muito maiormente o estrangeiro", defendeu.'
+b'Temer fez uma palestra em Bras\xc3\xadlia a 80 acionistas e presidentes de empresas com o tema "Perspectivas para o Brasil". Segundo ele, \xc3\xa9 preciso que todos se esforcem e colaborem para a sa\xc3\xadda da crise.'
+b'"Por isso volto dizer que, ao vos falar, pe\xc3\xa7o compreens\xc3\xa3o de que os senhores podem investir nas v\xc3\xa1rias atividades que t\xc3\xaam porque o Estado brasileiro e, no particular, o governo brasileiro, n\xc3\xa3o os decepcionar\xc3\xa1. N\xc3\xb3s vamos crescer", afirmou ainda.'
+b'Durante o discurso, Temer citou os protestos que levaram milhares de pessoas \xc3\xa0s ruas em 2013, que segundo ele pediam efici\xc3\xaancia nos servi\xc3\xa7os p\xc3\xbablicos, e classificou ainda o cen\xc3\xa1rio econ\xc3\xb4mico como de recess\xc3\xa3o. Segundo ele, o controle dos gastos p\xc3\xbablicos \xc3\xa9 a principal maneira de combater a crise.'
+b'O presidente disse tamb\xc3\xa9m que h\xc3\xa1 certa urg\xc3\xaancia no retorno do crescimento e que a pressa "\xc3\xa9 natural". "N\xc3\xa3o temos que nos impressionar com movimentos sociais e com o que postulam porque s\xc3\xa3o leg\xc3\xadtimas [as reivindica\xc3\xa7\xc3\xb5es e] nos fazem ficar mais atentos ainda para alcan\xc3\xa7armos logo o crescimento do pa\xc3\xads", afirmou.'
+b'Antes de Temer, o ministro da Transpar\xc3\xaancia e da Controladoria-Geral da Uni\xc3\xa3o (CGU), Torquato Jardim, discutiu as rela\xc3\xa7\xc3\xb5es entre setores privado e p\xc3\xbablico. J\xc3\xa1 o cientista pol\xc3\xadtico Murillo Arag\xc3\xa3o elogiou medidas que o governo vem implementando, como a proposta que limita os gastos p\xc3\xbablicos do governo e a Reforma do Ensino M\xc3\xa9dio.'
+b'"Olhando tudo o que acontece hoje, n\xc3\xa3o posso deixar de ser cautelosamente otimista. N\xc3\xa3o iremos recuperar o otimismo econ\xc3\xb4mico de uma hora para outra. A recupera\xc3\xa7\xc3\xa3o da credibilidade econ\xc3\xb4mica do Brasil ir\xc3\xa1 demorar, mas o certo \xc3\xa9 que hoje temos um rumo muto mais adequado", defendeu.'
+b'O evento "Brasil Futuro", organizado pela Consulting House, busca compartilhar ideias de empres\xc3\xa1rios brasileiros e membros de conselhos sobre a retorno do pa\xc3\xads ao t\xc3\xadtulo de "pot\xc3\xaancia econ\xc3\xb4mica".'
+Article 27 printed
+
+
+************************************
+
+
+b'http://agenciabrasil.ebc.com.br/es/politica/noticia/2016-11/brasil-renuncia-ministro-de-la-secretaria-de-gobierno'
+b'Brasil: Renuncia ministro de la Secretar\xc3\xada de Gobierno'
+b'25/11/2016 17h39'
+b'Ag\xc3\xaancia Brasil'
+b'El ministro de la Secretar\xc3\xada de Gobierno, Geddel Vieira Lima, entreg\xc3\xb3 este viernes (25) su carta de renuncia al presidente Michel Temer.Valter Campanato/Ag\xc3\xaancia Brasil'
+b'El ministro de la Secretar\xc3\xada de Gobierno, Geddel Vieira Lima, entreg\xc3\xb3 este viernes (25) su carta de renuncia al presidente Michel Temer. \xe2\x80\x9cEngrosaron las cr\xc3\xadticas contra m\xc3\xad. Veo el sufrimiento de mis familiares en Salvador. Quienes me conocen saben que ese es el m\xc3\xa1ximo de dolor que puedo soportar. Es hora de salir. Frente a las dimensiones de las interpretaciones dadas, pido disculpas a quienes hayan sido por ellas alcanzadas, pero Brasil es mayor que todo eso\xe2\x80\x9d, dice el texto de la misiva.'
+b'Vieira Lima se refer\xc3\xada a la repercusi\xc3\xb3n que tuvieron las denuncias de que presion\xc3\xb3 al exministro de la Cultura, Marcelo Calero, para autorizar la construcci\xc3\xb3n de un edificio residencial de lujo en la ciudad de Salvador, estado de Bahia, en el que el propio Viera Lima habr\xc3\xada adquirido un millonario apartamento sobre planos.'
+b'Aunque el referido proyecto inmobiliario hubiera sido aprobado por el Instituto del Patrimonio Hist\xc3\xb3rico y Art\xc3\xadstico Nacional (Iphan) del estado, no fue autorizado por el Iphan nacional porque la zona en que se pretend\xc3\xada levantar el edificio est\xc3\xa1 protegida como patrimonio hist\xc3\xb3rico de Salvador. El Iphan est\xc3\xa1 subordinado al Ministerio de Cultura.'
+b'Marcelo Calero, exministro de Cultura Marcelo Camargo/Ag\xc3\xaancia Brasil'
+b'Repercusiones'
+b'Calero renunci\xc3\xb3 al cargo la semana pasada. El jueves (24), el diario Folha de S. Paulo inform\xc3\xb3 que el exministro declar\xc3\xb3 sobre el asunto a la Polic\xc3\xada Federal, ocasi\xc3\xb3n en que habr\xc3\xada afirmado que el presidente Michel Temer le inst\xc3\xb3 a buscar una salida al problema a trav\xc3\xa9s de la Fiscal\xc3\xada General de la Uni\xc3\xb3n (AGU).'
+b'El presidente Michel Temer declar\xc3\xb3 por medio de su portavoz Alexandre Parola que busc\xc3\xb3 \xe2\x80\x9cmediar un conflicto\xe2\x80\x9d entre miembros del gabinete y \xc3\xb3rganos vinculados a la cartera de Cultura y neg\xc3\xb3 que hubiera \xe2\x80\x9cinducido\xe2\x80\x9d a Calero a buscar una salida al caso. De acuerdo con la portavoz, el mandatario confirm\xc3\xb3 que propuso una soluci\xc3\xb3n jur\xc3\xaddica a trav\xc3\xa9s de la AGU, que tendr\xc3\xada competencia legal para solucionar posibles divergencias entre \xc3\xb3rganos de la administraci\xc3\xb3n p\xc3\xbablica.'
+b'Asimismo, el portavoz resalt\xc3\xb3 que Calero siempre se ha comportado de manera intachable mientras estuvo en el cargo, y que, por lo tanto, le causaba extra\xc3\xb1eza que el exministro hubiera declarado que el presidente de la Rep\xc3\xbablica le inst\xc3\xb3 a buscar una soluci\xc3\xb3n que no fuera t\xc3\xa9cnica para el caso.'
+b'A trav\xc3\xa9s del portavoz, el jefe de Estado dijo que siempre busc\xc3\xb3 \xe2\x80\x9ccaminos t\xc3\xa9cnicos\xe2\x80\x9d para solucionar problemas relacionados a licencias de obras de su gobierno y que trat\xc3\xb3 de dialogar en dos ocasiones con Calero, su equipo y otros ministros sobre el asunto.'
+b'Alexandre Parola resalt\xc3\xb3 que el presidente estaba sorprendido por los rumores que afirmaban que Calero no solo hab\xc3\xada grabado su conversaci\xc3\xb3n, como le habr\xc3\xada solicitado una segunda audiencia con la \xc3\xbanica intenci\xc3\xb3n de grabar clandestinamente su conversaci\xc3\xb3n y luego divulgarla.'
+b'Traducci\xc3\xb3n: Lucas Magdiel'
+Article 28 printed
+
+
+************************************
+
+
+b'http://agenciabrasil.ebc.com.br/cultura/noticia/2016-11/caboclinhos-viram-patrimonio-cultural-imaterial-do-brasil'
+b'Caboclinhos viram patrim\xc3\xb4nio cultural imaterial do Brasil'
+b'24/11/2016 16h20'
+b'Sumaia Villela - Correspondente da Ag\xc3\xaancia Brasil'
+b'Presente em Pernambuco, Rio Grande do Norte, Para\xc3\xadba, Alagoas e Minas Gerais, os caboclinhos s\xc3\xa3o classificados pelos brincantes como uma homenagem aos primeiros habitantes do BrasilIsabella Valle/Divulga\xc3\xa7\xc3\xa3o '
+b'Os caboclinhos, express\xc3\xa3o da cultura popular de tradi\xc3\xa7\xc3\xa3o centen\xc3\xa1ria sobretudo em Pernambuco, foram reconhecidos como Patrim\xc3\xb4nio Cultural Imaterial do Brasil pelo Instituto do Patrim\xc3\xb4nio Hist\xc3\xb3rico e Art\xc3\xadstico Nacional (Iphan). O registro foi aprovado hoje (24) pelo Conselho Consultivo do Patrim\xc3\xb4nio Cultural do \xc3\xb3rg\xc3\xa3o, em reuni\xc3\xa3o realizada em Bras\xc3\xadlia.'
+b'Cultura presente tamb\xc3\xa9m no Rio Grande do Norte, na Para\xc3\xadba, em Alagoas e Minas Gerais, os caboclinhos s\xc3\xa3o classificados pelos brincantes como uma homenagem aos primeiros habitantes do territ\xc3\xb3rio que veio a se chamar Brasil. Os grupos \xe2\x80\x93 alguns com mais de 100 anos e ainda ativos \xe2\x80\x93 se apresentam nas ruas \xe2\x80\x93 principalmente no carnaval - vestidos com penas e pedrarias, em uma releitura carnavalesca dos trajes ind\xc3\xadgenas tradicionais, e dan\xc3\xa7am com agilidade os diferentes toques que representam temas de rituais da popula\xc3\xa7\xc3\xa3o ind\xc3\xadgena.'
+b'\xe2\x80\x9cTem o toque de guerra, que \xc3\xa9 a prepara\xc3\xa7\xc3\xa3o para o combate; o de perr\xc3\xa9, para pedir a chuva; o de bai\xc3\xa3o, que \xc3\xa9 mais festivo, usada para comemorar qualquer coisa que a tribo quisesse; e o tor\xc3\xa9, que tem um aspecto religioso\xe2\x80\x9d, ensina o presidente do Clube Carnavalesco Tribo Ind\xc3\xadgena Tup\xc3\xa3, do Recife, e secret\xc3\xa1rio da Associa\xc3\xa7\xc3\xa3o Carnavalesca dos Caboclinhos e \xc3\x8dndios de Pernambuco (Accipe), Amauri Rodrigues de Amorim.'
+b'Como o pr\xc3\xb3prio nome indica, a rever\xc3\xaancia ao caboclo (tanto o brasileiro filho de \xc3\xadndio e branco como a entidade presente na umbanda, por exemplo) est\xc3\xa1 presente na brincadeira, assim como o culto \xc3\xa0 Jurema, \xc3\xa1rvore nativa do Norte e do Nordeste do Brasil considerada sagrada e base de um ch\xc3\xa1 usado em rituais. A brincadeira tamb\xc3\xa9m tem refer\xc3\xaancia na coloniza\xc3\xa7\xc3\xa3o do territ\xc3\xb3rio brasileiro.'
+b'Uma data marcante para os caboclinhos, quando geralmente ocorrem encontros estaduais do folguedo, \xc3\xa9 30 de mar\xc3\xa7o. Em 1645, foi neste dia que ocorreu uma grande assembleia de povos ind\xc3\xadgenas na aldeia de Itapecerica, em Pernambuco, quando escolheram seus pr\xc3\xb3prios representantes divididos em conselhos de vereadores e tr\xc3\xaas regedores de territ\xc3\xb3rios.'
+b'Reconhecimento foi aprovado pelo Conselho Consultivo do Patrim\xc3\xb4nio Cultural do Instituto do Patrim\xc3\xb4nio Hist\xc3\xb3rico e Art\xc3\xadstico Nacional (Iphan) Priscilla Buhr/Divulga\xc3\xa7\xc3\xa3o'
+b'A estimativa da associa\xc3\xa7\xc3\xa3o de Pernambuco \xc3\xa9 que existam cerca de 70 grupos de caboclinhos  no estado \xe2\x80\x93 30 apenas no Recife. \xe2\x80\x9cO meu \xc3\xa9 dos mais novos, tem 39 anos\xe2\x80\x9d, brinca Amauri. Para fabricar as roupas e instrumentos, as agremia\xc3\xa7\xc3\xb5es recebem apoio financeiro do Poder P\xc3\xbablico \xe2\x80\x93 no caso do Grupo Tup\xc3\xa3, da prefeitura \xe2\x80\x93 e complementam a renda com bingos e outras atividades para angariar recursos. \xe2\x80\x9cA gente espera que, al\xc3\xa9m do reconhecimento da nossa cultura, o t\xc3\xadtulo traga mais oportunidade fora de Pernambuco, e que o valor pago pela prefeitura tenha uma aumento\xe2\x80\x9d, diz.'
+b'O governo do estado fez o pedido de registro como patrim\xc3\xb4nio imaterial do Brasil em agosto de 2013, mesma ocasi\xc3\xa3o em que foram solicitados os registros do maracatu na\xc3\xa7\xc3\xa3o, maracatu de baque solto e o cavalo narinho, express\xc3\xb5es culturais transformadas em patrim\xc3\xb4nio nacional em dezembro de 2014.'
+b'O secret\xc3\xa1rio de cultura de Pernambuco, Marcelino Granja, afirma que o apoio do Poder P\xc3\xbablico tamb\xc3\xa9m \xc3\xa9 necess\xc3\xa1rio para perpetuar a arte. \xe2\x80\x9cA gente precisa ajudar as sedes desses blocos, precisa se preocupar com a forma\xc3\xa7\xc3\xa3o de novos mestres dessa arte. E determinadas pol\xc3\xadticas p\xc3\xbablicas precisam ser observadas, como a exist\xc3\xaancia de concursos no carnaval do Recife. Por um lado \xc3\xa9 bom porque ajuda na profissionaliza\xc3\xa7\xc3\xa3o, na concorr\xc3\xaancia virtuosa, mas por outro lado incentiva a padroniza\xc3\xa7\xc3\xa3o\xe2\x80\x9d. Ele cita tamb\xc3\xa9m o ganho de autoestima e de visibilidade da cultura como benef\xc3\xadcios do t\xc3\xadtulo.'
+Article 29 printed
+
+
+************************************
+
+
+b'http://agenciabrasil.ebc.com.br/geral/noticia/2016-01/agencia-brasil-ficou-fora-do-ar'
+b'Ag\xc3\xaancia Brasil ficou fora do ar'
+b'11/01/2016 07h42'
+b''
+b'Por problemas t\xc3\xa9cnicos, o site da Ag\xc3\xaancia Brasil ficou fora do ar. Pedimos desculpas pelo transtorno.\n '
+Article 30 printed
+
+
+************************************
+
+
+b'http://agenciabrasil.ebc.com.br/geral/noticia/2016-11/agencia-brasil-retoma-atividades-apos-problemas-tecnicos'
+b'Ag\xc3\xaancia Brasil retoma atividades ap\xc3\xb3s problemas t\xc3\xa9cnicos'
+b'20/11/2016 13h32'
+b'Da Ag\xc3\xaancia Brasil'
+b'Por problemas t\xc3\xa9cnicos, a Ag\xc3\xaancia Brasil esteve fora do ar desde a manh\xc3\xa3 de hoje. Pedimos desculpa aos leitores e retomamos neste momento os nossos servi\xc3\xa7os.'
+Article 31 printed
+
+
+************************************
+
+
+b'http://agenciabrasil.ebc.com.br/geral/noticia/2016-11/brasil-e-vanguarda-em-pesquisas-sobre-zika-diz-ministro'
+b'Brasil \xc3\xa9 vanguarda em pesquisas sobre Zika, diz ministro'
+b'17/11/2016 14h41'
+b'Paula Laboissi\xc3\xa8re \xe2\x80\x93 Rep\xc3\xb3rter da Ag\xc3\xaancia Brasil'
+b'\xe2\x80\x9cTemos duas vacinas em testes cl\xc3\xadnicos e queremos continuar nessa vanguarda\xe2\x80\x9d, disse Ricardo Barros, em conversa com jornalistas  Marcelo Camargo/ABr'
+b'O ministro da Sa\xc3\xbade, Ricardo Barros, disse hoje (17) que o Brasil \xc3\xa9 o pa\xc3\xads que mais acumula conhecimento sobre o v\xc3\xadrus Zika, com maior avan\xc3\xa7o nas pesquisas atuais. \xe2\x80\x9cJ\xc3\xa1 temos duas vacinas em testes cl\xc3\xadnicos e queremos continuar nessa vanguarda\xe2\x80\x9d, disse, ap\xc3\xb3s participar de audi\xc3\xaancia p\xc3\xbablica na Comiss\xc3\xa3o Mista de Or\xc3\xa7amento da C\xc3\xa2mara dos Deputados.'
+b'Barros lembrou que amanh\xc3\xa3 (18) a Organiza\xc3\xa7\xc3\xa3o Mundial da Sa\xc3\xbade (OMS) deve se reunir para tratar do aumento de casos de microcefalia e outras desordens neurol\xc3\xb3gicas associados \xc3\xa0 epidemia de Zika. \xe2\x80\x9cA OMS vai fazer uma revis\xc3\xa3o sobre todo esse conhecimento e vai nos estabelecer novas diretrizes. Mas o Brasil \xc3\xa9 vanguarda\xe2\x80\x9d, refor\xc3\xa7ou, ao citar a pesquisa com a bact\xc3\xa9ria Wolbachia entre outras a\xc3\xa7\xc3\xb5es em desenvolvimento no pa\xc3\xads.'
+b'\xe2\x80\x9cO importante agora, para n\xc3\xb3s, \xc3\xa9 combater o mosquito. \xc3\x89 isso que podemos fazer e a sociedade toda est\xc3\xa1 convocada para essa tarefa. O desenvolvimento das pesquisas leva tempo. Espero que, talvez no pr\xc3\xb3ximo ver\xc3\xa3o, j\xc3\xa1 tenhamos solu\xc3\xa7\xc3\xa3o cient\xc3\xadfica para proteger as pessoas do v\xc3\xadrus, especialmente do Zika, que causa microcefalia e tem um impacto de longo prazo na vida das pessoas\xe2\x80\x9d, concluiu.'
+b'A Funda\xc3\xa7\xc3\xa3o Oswaldo Cruz vem desenvolvendo pesquisas sobre o v\xc3\xadrus zika   Fiocruz/Arquivo'
+b'Emerg\xc3\xaancia'
+b'O comit\xc3\xaa de emerg\xc3\xaancia da OMS se re\xc3\xbane amanh\xc3\xa3, pela quinta vez, para tratar da epidemia de Zika e do aumento de casos de microcefalia e outras desordens neurol\xc3\xb3gicas associados \xc3\xa0 infec\xc3\xa7\xc3\xa3o. Os especialistas devem definir se o quadro atual ainda constitui emerg\xc3\xaancia em sa\xc3\xbade p\xc3\xbablica de ordem internacional e revisar a implementa\xc3\xa7\xc3\xa3o e os impactos de recomenda\xc3\xa7\xc3\xb5es definidas em reuni\xc3\xb5es anteriores, al\xc3\xa9m de determinar a necessidade de novas recomenda\xc3\xa7\xc3\xb5es.'
+Article 32 printed
+
+
+************************************
+
+
+b'http://agenciabrasil.ebc.com.br/economia/noticia/2016-11/portugal-firma-acordo-de-cooperacao-de-startups-com-o-brasil'
+b'Portugal firma acordo de coopera\xc3\xa7\xc3\xa3o de startups com o Brasil'
+b'18/11/2016 13h36'
+b'Da Ag\xc3\xaancia Lusa'
+b'O governo de Portugal firmou, nesta semana, memorando de coopera\xc3\xa7\xc3\xa3o para o desenvolvimento e a internacionaliza\xc3\xa7\xc3\xa3o de startups (empresas em fase de constitui\xc3\xa7\xc3\xa3o que contam com projetos promissores e inovadores) com a Federa\xc3\xa7\xc3\xa3o das Ind\xc3\xbastrias do Estado de S\xc3\xa3o Paulo (Fiesp), maior entidade patronal do Brasil. As informa\xc3\xa7\xc3\xb5es s\xc3\xa3o da Ag\xc3\xaancia Lusa.'
+b'O termo assinado na quarta-feira (16)  pelo ministro portugu\xc3\xaas da Economia, Manuel Caldeira Cabral, e pelo presidente da Fiesp, Paulo Skaf, prev\xc3\xaa a\xc3\xa7\xc3\xb5es bilaterais de coopera\xc3\xa7\xc3\xa3o t\xc3\xa9cnica, incentivo \xc3\xa0 participa\xc3\xa7\xc3\xa3o de empresas dos dois pa\xc3\xadses em eventos de startups, e a elabora\xc3\xa7\xc3\xa3o de diretrizes para estimular o investimento de incubadoras e empres\xc3\xa1rios do Brasil e de Portugal nestas companhias.'
+b'"Esta colabora\xc3\xa7\xc3\xa3o e os incentivos que estamos a criar v\xc3\xa3o dar mobilidade aos startups. Num futuro pr\xc3\xb3ximo, poderemos ter empresas portuguesas desenvolvendo neg\xc3\xb3cios interessantes no Brasil ou sendo apoiadas financeiramente pelas incubadoras que atuam aqui [no Brasil]. Tamb\xc3\xa9m poderemos ter empresas brasileiras que querem desenvolver a\xc3\xa7\xc3\xb5es no mercado europeu indo para Portugal", explicou Caldeira Cabral.'
+b'O ministro portugu\xc3\xaas destacou que para incentivar tais neg\xc3\xb3cios inovadores, criados por empreendedores que "ser\xc3\xa3o respons\xc3\xa1veis por grandes mudan\xc3\xa7as no futuro", \xc3\xa9 necess\xc3\xa1rio construir pontes com empresas e institui\xc3\xa7\xc3\xb5es privadas. "\xc3\x89 o caso deste memorando que assinamos com a Fiesp, que \xc3\xa9 uma refer\xc3\xaancia em todo o Brasil", afirmou.'
+b'Caldeira Cabral tamb\xc3\xa9m lembrou que as parcerias de Portugal com o Brasil na \xc3\xa1rea de inova\xc3\xa7\xc3\xa3o s\xc3\xa3o discutidas h\xc3\xa1 algum tempo, citando encontros que teve com o ministro brasileiro da Ind\xc3\xbastria e Com\xc3\xa9rcio Exterior, Marcos Pereira, em Bras\xc3\xadlia e em Macau (na China).'
+b'O ministro disse que pretende apoiar um evento de startups realizado no Brasil chamado Acelera, que ser\xc3\xa1 divulgado em Portugal. Ele disse tamb\xc3\xa9m que deseja trazer mais empresas inovadoras do Brasil ao Web Summit Lisboa.'
+b'Otimismo'
+b'Questionado pela Ag\xc3\xaancia Lusa sobre a afirma\xc3\xa7\xc3\xa3o do primeiro-ministro de Portugal, Ant\xc3\xb3nio Costa, que em outubro destacou, no Brasil, que os empres\xc3\xa1rios dos dois pa\xc3\xadses devem deixar de apenas falar e passar a transformar em neg\xc3\xb3cios o bom relacionamento estabelecido h\xc3\xa1 muitos anos, Caldeira Cabral mostrou-se otimista e disse que algumas parcerias j\xc3\xa1 est\xc3\xa3o passando do campo das ideias para o das a\xc3\xa7\xc3\xb5es.'
+b'"Este memorando que assinamos hoje e o que assinamos no Rio de Janeiro [em setembro passado] s\xc3\xa3o concretiza\xc3\xa7\xc3\xb5es da abertura das portas [entre Brasil e Portugal], que v\xc3\xa3o permitir uma colabora\xc3\xa7\xc3\xa3o maior para promover o empreendedorismo", afirmou.'
+b'O protocolo com a Fiesp n\xc3\xa3o foi o primeiro conv\xc3\xaanio firmado pelo governo de Portugal com uma institui\xc3\xa7\xc3\xa3o brasileira: em setembro, as secretarias de Estado de Ci\xc3\xaancia, Tecnologia e Inova\xc3\xa7\xc3\xa3o do Estado do Rio de Janeiro e de Estado da Ind\xc3\xbastria de Portugal aviam assinado um acordo parecido.'
+Article 33 printed
+
+
+************************************
+
+
+b'http://agenciabrasil.ebc.com.br/politica/noticia/2016-11/brasil-ja-extraditou-nove-estrangeiros-desde-setembro'
+b'Brasil j\xc3\xa1 extraditou nove estrangeiros desde setembro'
+b'14/11/2016 18h30'
+b'Ivan Richard Esposito - Rep\xc3\xb3rter da Ag\xc3\xaancia Brasil'
+b'Condenado pelos crimes de tr\xc3\xa1fico de drogas, porte de arma de fogo, recepta\xc3\xa7\xc3\xa3o, falsifica\xc3\xa7\xc3\xa3o de documentos e roubo, o italiano Gianluca Medina foi extraditado pelo governo brasileiro. Al\xc3\xa9m dele, na \xc3\xbaltima sexta-feira (11), o Brasil extraditou o equatoriano Eduardo Cec\xc3\xadlio V\xc3\xa1squez Ortiz, que havia fugido da pris\xc3\xa3o de Las Rocas, onde j\xc3\xa1 cumpria pena por ter cometido assassinatos por encomenda. Ortiz era um dos criminosos mais procurados do Equador.'
+b'Segundo o Minist\xc3\xa9rio da Justi\xc3\xa7a, al\xc3\xa9m de Medina e Ortiz, desde setembro o Brasil extraditou mais sete estrangeiros: dois colombianos, quatro espanh\xc3\xb3is e um brit\xc3\xa2nico. No mesmo per\xc3\xadodo, um argentino e um venezuelano foram extraditados para o Brasil. Eles haviam sido condenados no Brasil e foram extraditados, a pedido do governo brasileiro, pelos governos da Argentina e Espanha. Dois brasileiros que estavam em Portugal tamb\xc3\xa9m foram transferidos para o Brasil pelas autoridades portuguesas ap\xc3\xb3s pedido brasileiro.'
+b'Italiano preso no Cear\xc3\xa1'
+b'Procurado pela Interpol, Medina estava detido para fins de extradi\xc3\xa7\xc3\xa3o desde julho de 2015, quando foi preso na Praia de Jericoacoara, no Cear\xc3\xa1. O governo da It\xc3\xa1lia pediu a extradi\xc3\xa7\xc3\xa3o de Medina para que ele cumpra penas decorrentes de duas senten\xc3\xa7as condenat\xc3\xb3rias.'
+b'Em 2008, Medina foi condenado na It\xc3\xa1lia a tr\xc3\xaas anos e quatro meses de reclus\xc3\xa3o e a pagamento de multa por tr\xc3\xa1fico de drogas, porte de arma de fogo, posse de muni\xc3\xa7\xc3\xa3o de guerra, recepta\xc3\xa7\xc3\xa3o e falsifica\xc3\xa7\xc3\xa3o de documentos. Em 2013, o criminoso italiano voltou a ser condenado, dessa vez, a tr\xc3\xaas anos, seis meses e 15 dias de reclus\xc3\xa3o, pelo crime de roubo praticado em concurso de pessoas e porte de arma. Essas duas senten\xc3\xa7as transitaram em julgado em 13 de outubro de 2009 e 2 de abril de 2015, respectivamente.'
+b'Em junho desse ano, por maioria, a 1\xc2\xaa Turma do Supremo Tribunal Federal (STF) acatou pedido do governo italiano para a extradi\xc3\xa7\xc3\xa3o.'
+b'Equatoriano'
+b'J\xc3\xa1 Eduardo Ortiz, tamb\xc3\xa9m procurado pala Interpol, havia sido preso em fevereiro de 2013, em Bras\xc3\xadlia. O governo do Equador pediu a extradi\xc3\xa7\xc3\xa3o para que Ortiz cumpra pena de 25 anos de pris\xc3\xa3o por homic\xc3\xaddio e porte ilegal de armas. Al\xc3\xa9m disso, ele ir\xc3\xa1 responder por outros casos de homic\xc3\xaddios dos quais \xc3\xa9 acusado. A extradi\xc3\xa7\xc3\xa3o de Ortiz tamb\xc3\xa9m foi aceita pelo STF.'
+b'De acordo com o Minist\xc3\xa9rio da Justi\xc3\xa7a, as duas extradi\xc3\xa7\xc3\xb5es ocorreram com base em tratados assinados pelo Brasil e os dois pa\xc3\xadses.'
+b'Pizzolato'
+b'No ano passado, ap\xc3\xb3s longa disputa judicial, o ex-diretor de Marketing do Banco do Brasil Henrique Pizzolato, de 63 anos, foi extraditado pela It\xc3\xa1lia a pedido do governo brasileiro para que ele cumpra, no Brasil, pena decorrente de condena\xc3\xa7\xc3\xa3o na A\xc3\xa7\xc3\xa3o Penal 470, do processo conhecido como mensal\xc3\xa3o.'
+Article 34 printed
+
+
+************************************
+
+
+b'http://agenciabrasil.ebc.com.br/geral/noticia/2016-11/casos-de-sifilis-voltam-aumentar-no-brasil'
+b'Casos de s\xc3\xadfilis voltam a aumentar no Brasil'
+b'13/11/2016 09h27'
+b'Paula Laboissi\xc3\xa8re - Rep\xc3\xb3rter da Ag\xc3\xaancia Brasil'
+b'Dados do \xc3\xbaltimo boletim epidemiol\xc3\xb3gico do Minist\xc3\xa9rio da Sa\xc3\xbade revelam que os casos de s\xc3\xadfilis adquirida (em adultos) aumentaram 32,7% no Brasil no per\xc3\xadodo de 2014 a 2015. Entre gestantes, o crescimento foi de 20,9%, enquanto as infec\xc3\xa7\xc3\xb5es por s\xc3\xadfilis cong\xc3\xaanita (transmitida pela m\xc3\xa3e ao beb\xc3\xaa) subiram 19% no mesmo per\xc3\xadodo.'
+b'\xe2\x80\x9cO que caracteriza uma epidemia \xc3\xa9 quando se tem um aumento no n\xc3\xbamero de casos num determinado per\xc3\xadodo de tempo. A s\xc3\xadfilis n\xc3\xa3o vinha num patamar de elimina\xc3\xa7\xc3\xa3o, mas seguia est\xc3\xa1vel e, de repente, surgiu um maior n\xc3\xbamero de casos\xe2\x80\x9d, disse a diretora do Departamento de Vigil\xc3\xa2ncia, Preven\xc3\xa7\xc3\xa3o e Controle das DST, Aids e Hepatites Virais, Adele Benzaken.'
+b'Ela lembrou que a s\xc3\xadfilis \xc3\xa9 uma doen\xc3\xa7a de notifica\xc3\xa7\xc3\xa3o compuls\xc3\xb3ria \xe2\x80\x93 qualquer caso deve ser obrigatoriamente notificado. O que tem se observado nos \xc3\xbaltimos cinco anos, segundo Adele, \xc3\xa9 um crescimento do n\xc3\xbamero de casos dessas tr\xc3\xaas notifica\xc3\xa7\xc3\xb5es, inclusive da cong\xc3\xaanita.'
+b'Sintomas'
+b'De acordo com a especialista, a s\xc3\xadfilis no adulto tem sinais espec\xc3\xadficos, mas tamb\xc3\xa9m h\xc3\xa1 um per\xc3\xadodo de lat\xc3\xaancia consider\xc3\xa1vel. O quadro sintom\xc3\xa1tico inicia com uma ferida que, nos homens, \xc3\xa9 bem aparente, n\xc3\xa3o d\xc3\xb3i e pode desaparecer num per\xc3\xadodo de sete a dez dias. Nas mulheres, a ferida pode surgir na genit\xc3\xa1lia interna e passar desapercebida.'
+b'\xe2\x80\x9cA manifesta\xc3\xa7\xc3\xa3o, nesses casos, fica em lat\xc3\xaancia e o quadro se torna de s\xc3\xadfilis terci\xc3\xa1ria. Quando h\xc3\xa1 evolu\xc3\xa7\xc3\xa3o de mais de dez anos, a doen\xc3\xa7a destr\xc3\xb3i tecidos como cora\xc3\xa7\xc3\xa3o, c\xc3\xa9rebro e ossos\xe2\x80\x9d, explicou em entrevista \xc3\xa0 Ag\xc3\xaancia Brasil.'
+b'J\xc3\xa1 na s\xc3\xadfilis cong\xc3\xaanita, o per\xc3\xadodo de evolu\xc3\xa7\xc3\xa3o \xc3\xa9 bem mais curto. Durante a gesta\xc3\xa7\xc3\xa3o, a doen\xc3\xa7a pode causar aborto, malforma\xc3\xa7\xc3\xb5es \xc3\xb3sseas e manifesta\xc3\xa7\xc3\xb5es na pele, al\xc3\xa9m da morte do rec\xc3\xa9m-nascido.'
+b'\xe2\x80\x9cSe a gestante \xc3\xa9 tratada adequadamente no primeiro e at\xc3\xa9 no segundo trimestre, o beb\xc3\xaa tamb\xc3\xa9m \xc3\xa9 tratado, mesmo intra \xc3\xbatero. \xc3\x89 uma doen\xc3\xa7a bacteriana que tem cura. A grande quest\xc3\xa3o \xc3\xa9 a busca do diagn\xc3\xb3stico e do tratamento\xe2\x80\x9d, destacou Adele.'
+b'Epidemia de m\xc3\xbaltiplas causas'
+b'Para a diretora, a epidemia de s\xc3\xadfilis no Brasil \xc3\xa9 decorrente de \xe2\x80\x9cm\xc3\xbaltiplas causas\xe2\x80\x9d, como a queda no uso do preservativo \xe2\x80\x93 sobretudo entre pessoas de 20 a 24 anos, faixa et\xc3\xa1ria onde comumente se registra maior atividade sexual e sem parceria fixa.'
+b'\xe2\x80\x9cEstamos recomendando o uso do preservativo masculino e feminino, em alguns estados, durante a gesta\xc3\xa7\xc3\xa3o, n\xc3\xa3o apenas por conta de infec\xc3\xa7\xc3\xb5es sexualmente transmiss\xc3\xadveis, mas tamb\xc3\xa9m para evitar o v\xc3\xadrus Zika. Recomendamos o uso n\xc3\xa3o s\xc3\xb3 para gestantes como para toda a popula\xc3\xa7\xc3\xa3o adulta.\xe2\x80\x9d'
+b'Outra quest\xc3\xa3o envolve o acesso \xc3\xa0 penicilina, principal medicamento utilizado no tratamento da s\xc3\xadfilis. Os problemas, no Brasil, come\xc3\xa7aram no ano passado, com o desabastecimento de mat\xc3\xa9ria-prima, mas o minist\xc3\xa9rio garante que o estoque foi reposto por meio da importa\xc3\xa7\xc3\xa3o da droga.'
+b'\xe2\x80\x9cEsta semana, fizemos um novo levantamento e todos os estados est\xc3\xa3o abastecidos at\xc3\xa9 abril do ano que vem, com reserva\xe2\x80\x9d, disse Adele.'
+b'A resist\xc3\xaancia de profissionais da enfermagem em aplicar a penicilina na aten\xc3\xa7\xc3\xa3o b\xc3\xa1sica tamb\xc3\xa9m pesa nos n\xc3\xbameros da epidemia de s\xc3\xadfilis no pa\xc3\xads \xe2\x80\x93 principalmente nos casos de s\xc3\xadfilis em gestantes e, consequentemente, de s\xc3\xadfilis cong\xc3\xaanita. Isso porque h\xc3\xa1 um risco, ainda que pequeno, de choque anafil\xc3\xa1tico no paciente.'
+b'\xe2\x80\x9c\xc3\x89 preciso que todos se engajem no sentido de detectar um caso, principalmente na gravidez, e iniciar imediatamente o tratamento. Com uma \xc3\xbanica dose, conseguimos reduzir a taxa de transmissibilidade da m\xc3\xa3e para o beb\xc3\xaa em quase 90%\xe2\x80\x9d, disse. \xe2\x80\x9cN\xc3\xa3o h\xc3\xa1 porque temer aplicar a penicilina na gravidez. A alergia \xc3\xa0 penicilina \xc3\xa9 um epis\xc3\xb3dio raro\xe2\x80\x9d.'
+Article 35 printed
+
+
+************************************
+
+
+b'http://agenciabrasil.ebc.com.br/geral/noticia/2016-11/zika-no-brasil-atinge-mais-mulheres-do-que-homens'
+b'Zika no Brasil atinge mais mulheres do que homens'
+b'10/11/2016 21h58'
+b'Aline Leal - Rep\xc3\xb3rter da Ag\xc3\xaancia Brasil'
+b''
+b'Boletim divulgado hoje (10) pelo Minist\xc3\xa9rio da Sa\xc3\xbade aponta que dos 196.976 casos prov\xc3\xa1veis de infec\xc3\xa7\xc3\xa3o pelo Zika notificados no pa\xc3\xads at\xc3\xa9 agosto de 2016, 16.264 foram em mulheres gr\xc3\xa1vidas, sendo 10.325 confirmados. A infec\xc3\xa7\xc3\xa3o pelo v\xc3\xadrus durante a gesta\xc3\xa7\xc3\xa3o pode gerar diversas malforma\xc3\xa7\xc3\xb5es na crian\xc3\xa7a, como microcefalia e outras altera\xc3\xa7\xc3\xb5es neurol\xc3\xb3gicas.'
+b'Os dados mostram que a infec\xc3\xa7\xc3\xa3o pelo v\xc3\xadrus Zika em 2016 foi mais frequentes em mulheres do que em homens e que a faixa et\xc3\xa1ria predominante dos casos em mulheres foi de 20 a 39 anos. Do total de casos, 132.524 (67,3%) foram notificados em mulheres dos quais 96.494 (72,8%) em idade f\xc3\xa9rtil (faixa et\xc3\xa1ria de 10 a 49 anos).'
+b'A maior concentra\xc3\xa7\xc3\xa3o de casos ocorreu entre os meses de fevereiro e mar\xc3\xa7o. Mato Grosso, com 925,9 casos por 100 mil habitantes, Rio de Janeiro com 471 e Bahia, com 449,6  foram os estados com maior incid\xc3\xaancia da doen\xc3\xa7a no pa\xc3\xads durante esse ano.'
+b'S\xc3\xadndrome Cong\xc3\xaanita'
+b'Ao todo, 2.071 crian\xc3\xa7as com S\xc3\xadndrome Cong\xc3\xaanita do Zika recebem a estimula\xc3\xa7\xc3\xa3o precoce preconizada pelo Minist\xc3\xa9rio da Sa\xc3\xbade, e 1.413 s\xc3\xa3o acompanhadas pela assist\xc3\xaancia social. Ao todo, 2016 tiveram a confirma\xc3\xa7\xc3\xa3o da s\xc3\xadndrome.'
+Article 36 printed
+
+
+************************************
+
+
+b'http://agenciabrasil.ebc.com.br/economia/noticia/2016-11/bolsa-cai-e-dolar-sobe-no-brasil-apos-eleicao-de-trump'
+b'Bolsa cai e d\xc3\xb3lar sobe no Brasil ap\xc3\xb3s elei\xc3\xa7\xc3\xa3o de Trump'
+b'09/11/2016 10h31'
+b'Da Ag\xc3\xaancia Brasil'
+b'D\xc3\xb3lar est\xc3\xa1 em alta e a bolsa em baixa no Brasil12 15:53:57'
+b'O d\xc3\xb3lar sobe e a bolsa de valores no Brasil cai na manh\xc3\xa3 de hoje (9), ap\xc3\xb3s o an\xc3\xbancio da vit\xc3\xb3ria do empres\xc3\xa1rio Donald Trump na elei\xc3\xa7\xc3\xa3o para a presid\xc3\xaancia dos Estados Unidos. Trump venceu a candidata do Partido Democrata, Hillary Clinton.'
+b'\xc3\x80s 9h50 de hoje (9), o d\xc3\xb3lar estava cotado a R$ 3,2450. \xc3\x80s 10h, o d\xc3\xb3lar era vendido a R$ 3,2380. O \xc3\x8dndice de Valores da Bolsa de S\xc3\xa3o Paulo (Ibovespa) caia 3,24% por volta das 10h20, com 62.079,76 pontos.'
+b'Os mercados financeiros no mundo desabaram com a not\xc3\xadcia da vit\xc3\xb3ria de Donald Trump. O \xc3\xadndice Nikkei do Jap\xc3\xa3o caiu mais de 800 pontos, ou seja quase 5%.\nAs aplica\xc3\xa7\xc3\xb5es financeiras est\xc3\xa3o se transferindo para o ouro. O peso mexicano est\xc3\xa1 em queda livre.'
+Article 37 printed
+
+
+************************************
+
+
+b'http://agenciabrasil.ebc.com.br/es/internacional/noticia/2016-11/presidente-de-brasil-desea-exito-donald-trump'
+b'Presidente de Brasil desea \xc3\xa9xito a Donald Trump'
+b'09/11/2016 15h51'
+b'Pedro Peduzzi \xe2\x80\x93 Reportero de Ag\xc3\xaancia Brasil'
+b'El presidente Michel Temer envi\xc3\xb3 esta ma\xc3\xb1ana (9) una carta al presidente electo de los Estados Unidos, Donald Trump, felicit\xc3\xa1ndolo por haber ganado las elecciones. En la carta, Temer desea \xe2\x80\x9cpleno \xc3\xa9xito\xe2\x80\x9d al gobierno EE.UU. y dice que los dos pa\xc3\xadses son grandes democracias que mantienen unas \xe2\x80\x9cfuertes relaciones en los m\xc3\xa1s diferentes \xc3\xa1mbitos\xe2\x80\x9d.'
+b'Temer expres\xc3\xb3 su convicci\xc3\xb3n de que los dos pa\xc3\xadses trabajar\xc3\xa1n juntos para estrechar a\xc3\xban m\xc3\xa1s los lazos de amistad y cooperaci\xc3\xb3n entre sus pueblos.'
+b'Seg\xc3\xban inform\xc3\xb3 Alexandre Parola, portavoz de la presidencia de Brasil, Temer acompa\xc3\xb1\xc3\xb3 durante la noche el desenlace del proceso electoral que llev\xc3\xb3 a la elecci\xc3\xb3n de Donald Trump.'
+b'Parola agreg\xc3\xb3 que las relaciones entre Brasil y Estados Unidos est\xc3\xa1n marcadas por el \xe2\x80\x9calto grado de intensidad y diversidad\xe2\x80\x9d, y que eso se observa no solo en el \xc3\xa1mbito gubernamental, sino tambi\xc3\xa9n en el \xc3\xa1mbito de la sociedad y del empresariado de los dos pa\xc3\xadses, bien como en los m\xc3\xa1s distintos \xc3\xa1mbitos.'
+b'M\xc3\xa1s temprano, cuando coment\xc3\xb3 la victoria de Donald Trump en su cuenta de Twitter, el mandatario brasile\xc3\xb1o declar\xc3\xb3 que los dos pa\xc3\xadses deber\xc3\xa1n mantener sus relaciones institucionales, y que, por lo tanto, no se producir\xc3\xa1n cambios significativos en las relaciones entre ambos pa\xc3\xadses.'
+b'Traducci\xc3\xb3n: Lucas Magdiel'
+Article 38 printed
+
+
+************************************
+
+
+b'http://agenciabrasil.ebc.com.br/cultura/noticia/2016-10/participacao-de-mulheres-na-producao-de-animacoes-cresce-no-brasil'
+b'Participa\xc3\xa7\xc3\xa3o de mulheres na produ\xc3\xa7\xc3\xa3o de anima\xc3\xa7\xc3\xb5es cresce no Brasil'
+b'28/10/2016 18h50'
+b'Akemi Nitahara \xe2\x80\x93 Rep\xc3\xb3rter da Ag\xc3\xaancia Brasil'
+b''
+b'A participa\xc3\xa7\xc3\xa3o de mulheres nas diversas etapas da produ\xc3\xa7\xc3\xa3o de anima\xc3\xa7\xc3\xa3o cresceu nos \xc3\xbaltimos anos, segundo os pr\xc3\xb3prios profissionais, professores e estudantes do setor. A professora do Est\xc3\xbadio Escola de Anima\xc3\xa7\xc3\xa3o, Cindy Shaw, diretora da anima\xc3\xa7\xc3\xa3o do Copa Studio, diz os homens ainda s\xc3\xa3o maioria, mas que atualmente h\xc3\xa1 bem mais mulheres atuando do que quando come\xc3\xa7ou a trabalhar na \xc3\xa1rea h\xc3\xa1 8 anos.'
+b'\xe2\x80\x9cQuando eu comecei na 2DLab, j\xc3\xa1 tinha mulheres em cargos de supervis\xc3\xa3o ou de produ\xc3\xa7\xc3\xa3o, tinha uma ou outra que tinha cargo de lideran\xc3\xa7a, mas hoje em dia tem bem mais, est\xc3\xa1 bem mais dividido. N\xc3\xa3o sei como \xc3\xa9 nos outros lugares, eu s\xc3\xb3 conhe\xc3\xa7o aqui no Rio. Mas uma coisa boa \xc3\xa9 o trabalho em equipe, todo mundo trabalha junto, isso ajuda tamb\xc3\xa9m a dar mais espa\xc3\xa7o, as pessoas crescem por dedica\xc3\xa7\xc3\xa3o delas\xe2\x80\x9d.'
+b'Cindy diz tamb\xc3\xa9m que a atual turma do Est\xc3\xbadio Escola tem mais mulheres do que homens. Uma delas \xc3\xa9 Ingrid Queiroz, que pretende seguir carreira na \xc3\xa1rea. Aos 18 anos, ela diz que n\xc3\xa3o sabia da possibilidade de trabalhar com anima\xc3\xa7\xc3\xa3o no Brasil, at\xc3\xa9 conhecer a escola. \xe2\x80\x9cNormalmente a gente via s\xc3\xb3 homens fazendo essa parte da anima\xc3\xa7\xc3\xa3o. Eu nunca tinha visitado est\xc3\xbadio de desenho e anima\xc3\xa7\xc3\xa3o, quando fui no Copa vi que tinha muitas mulheres l\xc3\xa1, a minha professora e muitas meninas, eu nem imaginava, agora tem muita menina se interessando. Est\xc3\xa1 crescendo muito [o mercado], antes de conhecer o Copa eu j\xc3\xa1 conhecia o Combo, pelo desenho da Any Malu, e a gente n\xc3\xa3o via muitos desenhos assim. \xc3\x89 muito legal ter um est\xc3\xbadio assim aqui, requisitado, porque normalmente \xc3\xa9 s\xc3\xb3 l\xc3\xa1 fora que tem grandes nomes de est\xc3\xbadio de anima\xc3\xa7\xc3\xa3o\xe2\x80\x9d.'
+b'Ex-aluna do Est\xc3\xbadio Escola, Marina Vasconcelos trabalha como ilustradora e diz que as barreiras para a entrada de mulheres nesse mercado est\xc3\xa3o diminuindo, mas ainda existem. \xe2\x80\x9cSempre foi uma \xc3\xa1rea majoritariamente masculina, mas agora tem melhorado bastante. Tem algumas meninas no est\xc3\xbadio, v\xc3\xa1rias na arte, na anima\xc3\xa7\xc3\xa3o tamb\xc3\xa9m. Eu tento acompanhar isso e eu vejo que ainda tem muito caminho a trilhar, tem muita discuss\xc3\xa3o, em alguns lugares ainda tem muito preconceito, como por exemplo em est\xc3\xbadios de anima\xc3\xa7\xc3\xb5es de com\xc3\xa9dia para adulto, os caras n\xc3\xa3o querem contratar mulher\xe2\x80\x9d, disse.'
+b'Uma pesquisa feita no ano passado pela pesquisadora  da Universidade Federal de Minas Gerais Cristiane Fariah, o estudo Eu Sou Anima\xc3\xa7\xc3\xa3o no Brasil, diz que 28% das pessoas que trabalham com anima\xc3\xa7\xc3\xa3o no pa\xc3\xads s\xc3\xa3o mulheres.'
+b'Hoje \xc3\xa9 comemorado o Dia Internacional da Anima\xc3\xa7\xc3\xa3o e uma mostra gratuita exibe em mais de 200 cidades em todos os estados do pa\xc3\xads uma sele\xc3\xa7\xc3\xa3o de curtas-metragens de desenhos animados nacionais e internacionais.'
+Article 39 printed
+
+
+************************************
+
+
+b'http://agenciabrasil.ebc.com.br/geral/noticia/2016-10/brasil-recicla-98-das-latinhas-de-aluminio-de-bebidas'
+b'Brasil recicla 98% das latinhas de alum\xc3\xadnio de bebidas'
+b'28/10/2016 15h44'
+b'Bruno Bocchini - Rep\xc3\xb3rter da Ag\xc3\xaancia Brasil'
+b'O \xc3\xadndice de reciclagem das latinhas de alum\xc3\xadnio de bebidas no Brasil atingiu 97,9% em 2015, com um total de 292,5 mil toneladas de latas recicladas, quase a totalidade das embalagens colocadas \xc3\xa0 venda. Os dados, divulgados hoje (28), s\xc3\xa3o da Associa\xc3\xa7\xc3\xa3o Brasileira do Alum\xc3\xadnio (Abal) e da Associa\xc3\xa7\xc3\xa3o Brasileira dos Fabricantes de Latas de Alta Reciclabilidade (Abralatas).'
+b'De acordo com as duas entidades, somente na coleta da latinha foram injetados cerca de R$ 730 milh\xc3\xb5es na economia brasileira. \xe2\x80\x9cO valor equivale a quase um milh\xc3\xa3o de sal\xc3\xa1rios-m\xc3\xadnimos por ano, confirmando a import\xc3\xa2ncia da reciclagem para a gera\xc3\xa7\xc3\xa3o de emprego e renda para os catadores de materiais recicl\xc3\xa1veis\xe2\x80\x9d, destacou o coordenador do Comit\xc3\xaa de Mercado de Reciclagem da Abal, Mario Fernandez.'
+b'Segundo a entidade, a reciclagem das latinhas consome apenas 5% da energia que seria utilizada para a produ\xc3\xa7\xc3\xa3o das mesmas a partir do alum\xc3\xadnio prim\xc3\xa1rio, extra\xc3\xaddo da bauxita. \xe2\x80\x9cA economia de energia gerada nessa reciclagem atenderia \xc3\xa0 demanda residencial anual de energia de um estado como Goi\xc3\xa1s\xe2\x80\x9d, disse Fernandez.'
+Article 40 printed
+
+
+************************************
+
+
+b'http://agenciabrasil.ebc.com.br/es/geral/noticia/2016-10/investigan-empresa-de-donald-trump-en-brasil'
+b'Investigan a empresa de Donald Trump en Brasil'
+b'28/10/2016 19h05'
+b'Andr\xc3\xa9 Richter \xe2\x80\x93 Reportero de Ag\xc3\xaancia Brasil'
+b'El Ministerio P\xc3\xbablico Federal (MPF) confirm\xc3\xb3 este viernes (28) que el grupo empresarial de Donald Trump, candidato a la presidencia de los Estados Unidos, es investigada en el marco de la Operaci\xc3\xb3n de Greenfield, de la Polic\xc3\xada Federal, que indaga fraudes en fondos de pensiones de empleados p\xc3\xbablicos.'
+b'De acuerdo con el MPF, investigadores sospechan sobre irregularidades en la provisi\xc3\xb3n de recursos del Instituto Serpro de Seguridad Social (Serpros) y del Instituto de Seguridad Social del Estado de Tocantins (Igeprev) en un fondo de inversiones que particip\xc3\xb3 en la construcci\xc3\xb3n del Trump Hotel, en R\xc3\xado de Janeiro. Las sospechas se refieren a inversiones por US$ 24,3 millones de Serpros y por US$ 17 millones de Igeprev.'
+b'Las pesquisas indican a\xc3\xban que Trump Organization puede haberse beneficiado con recursos procedentes del Fondo de Inversi\xc3\xb3n del Fondo de Garant\xc3\xada (FI-FGTS). Tambi\xc3\xa9n se investigan hechos en el marco de una acci\xc3\xb3n penal que cursa en la Justicia Federal en Brasilia y que tiene como reo al diputado federal Eduardo Cunha.'
+b'En un comunicado, el MPF inform\xc3\xb3 que la investigaci\xc3\xb3n \xe2\x80\x9cno significa una anticipaci\xc3\xb3n de la culpabilidad de los implicados\xe2\x80\x9d ni tampoco una \xe2\x80\x9cposici\xc3\xb3n final\xe2\x80\x9d del \xc3\xb3rgano sobre la ilegalidad de los hechos.'
+b'Traducci\xc3\xb3n: Lucas Magdiel'
+Article 41 printed
+
+
+************************************
+
+
+b'http://agenciabrasil.ebc.com.br/geral/noticia/2016-10/precisamos-falar-de-desencarceramento-no-brasil-diz-perita-do-mnpct'
+b'Brasil precisa debater o desencarceramento, defende especialista'
+b'25/10/2016 19h20'
+b'Marcelo Brand\xc3\xa3o - Rep\xc3\xb3rter da Ag\xc3\xaancia Brasil'
+b''
+b'Ap\xc3\xb3s a mais recente chacina em um pres\xc3\xaddio, dessa vez em Roraima, a situa\xc3\xa7\xc3\xa3o do sistema penitenci\xc3\xa1rio brasileiro voltou ao centro dos debates. Para a perita do Mecanismo Nacional de Preven\xc3\xa7\xc3\xa3o e Combate \xc3\xa0 Tortura (MNPCT), Catarina Pedroso, o pa\xc3\xads precisa pensar em formas de desinchar as cadeias no pa\xc3\xads. \xe2\x80\x9cA gente precisa falar de desencarceramento, \xc3\xa9 disso que se trata. A gente precisa evitar o n\xc3\xbamero de presos provis\xc3\xb3rios que a gente tem, precisa reduzir o n\xc3\xbamero de pessoas que entra e favorecer a sa\xc3\xadda delas, entrando na quest\xc3\xa3o da ressocializa\xc3\xa7\xc3\xa3o\xe2\x80\x9d.'
+b'Catarina foi convidada do programa Di\xc3\xa1logo Brasil, da TV Brasil. O MNPCT \xc3\xa9 um \xc3\xb3rg\xc3\xa3o vinculado ao Minist\xc3\xa9rio da Justi\xc3\xa7a composto por 11 peritos independentes. Eles t\xc3\xaam acesso \xc3\xa0s unidades de priva\xc3\xa7\xc3\xa3o de liberdade para elaborar relat\xc3\xb3rios com recomenda\xc3\xa7\xc3\xb5es \xc3\xa0s autoridades competentes. Para Cataraina, o conceito de penitenci\xc3\xa1ria no pa\xc3\xads vai de encontro a um modelo ressocializador. \xe2\x80\x9cA sociedade pensa numa l\xc3\xb3gica de unidades mais blindadas e isoladas, quando penso que o caminho deva ser o contr\xc3\xa1rio, que a unidade dialogue com a vida da pessoa e com a realidade l\xc3\xa1 fora de modo a construir uma outra perspectiva e a priva\xc3\xa7\xc3\xa3o de liberdade seja menos violadora\xe2\x80\x9d. '
+b'A superlota\xc3\xa7\xc3\xa3o e o dom\xc3\xadnio de fac\xc3\xa7\xc3\xb5es criminosas dentro das cadeias s\xc3\xa3o algumas das quest\xc3\xb5es debatidas no programa. O presidente da Comiss\xc3\xa3o Permanente do Sistema Prisional do Conselho Nacional do Minist\xc3\xa9rio P\xc3\xbablico (CNMP), Ant\xc3\xb4nio Duarte, diz que \xc3\xa9 dif\xc3\xadcil um preso sair de l\xc3\xa1 reabilitado.'
+b'\xe2\x80\x9cEle ingressa no sistema e vai sendo paulatinamente aviltado pelas humilha\xc3\xa7\xc3\xb5es e constrangimentos em um sistema j\xc3\xa1 dominado por organiza\xc3\xa7\xc3\xb5es criminosas. Ele j\xc3\xa1 entra tendo que escolher a fac\xc3\xa7\xc3\xa3o a qual pertence porque, do contr\xc3\xa1rio, vai ser uma pe\xc3\xa7a fora da engrenagem do sistema e sujeito, inclusive, a ser alvo de retalia\xc3\xa7\xc3\xb5es ou mesmo assassinato\xe2\x80\x9d.'
+b"O programa ouviu tamb\xc3\xa9m Bruna Paula, da Associa\xc3\xa7\xc3\xa3o dos Familiares de Internos dos Sistema Penitenci\xc3\xa1rio do Distrito Federal. Ela deu um depoimento sobre a superlota\xc3\xa7\xc3\xa3o em uma cadeia no DF, onde uma cama \xc3\xa9 dividida por at\xc3\xa9 tr\xc3\xaas presos. \xe2\x80\x9cEles ficam em uma cela superlotada. Tem interno que chega a dividir a cama com mais dois e no ch\xc3\xa3o n\xc3\xa3o tem nem como andar. Inclusive, teve um interno que estava dormindo com o p\xc3\xa9 virado para o banheiro, que eles chamam de 'boi', com os p\xc3\xa9s quase dentro do vaso. Ele acordou com um rato mordendo o dedo do p\xc3\xa9 dele\xe2\x80\x9d."
+b'Duarte citou um caso de sucesso, que vem sendo aplicado em dezenas de pres\xc3\xaddios. Nesse m\xc3\xa9todo, de natureza privada chamado Associa\xc3\xa7\xc3\xa3o de prote\xc3\xa7\xc3\xa3o e assist\xc3\xaancia ao condenado (Apac), o preso tem sido submetido a uma \xe2\x80\x9crecupera\xc3\xa7\xc3\xa3o mais positiva\xe2\x80\x9d. \xe2\x80\x9cA Apac tem conseguido melhorar o perfil daquela popula\xc3\xa7\xc3\xa3o que sai do regime fechado e vai pro semiaberto e depois para o aberto, e permite que ele possa desenvolver uma recupera\xc3\xa7\xc3\xa3o mais positiva. [\xe2\x80\xa6] h\xc3\xa1 toda uma disciplina interna e o pr\xc3\xb3prio recluso tem obriga\xc3\xa7\xc3\xb5es que ele cumpre para n\xc3\xa3o ter regress\xc3\xa3o no seu regime\xe2\x80\x9d.'
+b'Catarina, por sua vez, v\xc3\xaa com cautela a quest\xc3\xa3o da privatiza\xc3\xa7\xc3\xa3o do sistema prisional. Para ela, entregar a empresas a gest\xc3\xa3o de presos no pa\xc3\xads pode aumentar a impunidade a situa\xc3\xa7\xc3\xb5es de viol\xc3\xaancia e tortura contra presos. \xe2\x80\x9cQuando h\xc3\xa1 uma agress\xc3\xa3o, uma situa\xc3\xa7\xc3\xa3o de tortura, esses fatos s\xc3\xa3o mais dif\xc3\xadceis de serem apurados porque existe uma rotatividade muito alta, os dados n\xc3\xa3o s\xc3\xa3o acess\xc3\xadveis, ent\xc3\xa3o a chance de responsabiliza\xc3\xa7\xc3\xa3o de um agente \xc3\xa9 muito baixa\xe2\x80\x9d.'
+b'Com 622 mil presos, o Brasil tem hoje a quarta maior popula\xc3\xa7\xc3\xa3o carcer\xc3\xa1ria do planeta, s\xc3\xb3 perdendo para Estados Unidos (2,2 milh\xc3\xb5es), China (1,6 milh\xc3\xa3o) e R\xc3\xbassia (673 mil). Os presos brasileiros s\xc3\xa3o, em sua maior parte (67%), negros; 56% t\xc3\xaam menos de 30 anos; 53% n\xc3\xa3o conclu\xc3\xadram sequer o ensino fundamental; 27% est\xc3\xa3o atr\xc3\xa1s das grades por tr\xc3\xa1fico, 21% por roubo e 14% por homic\xc3\xaddio. O Di\xc3\xa1logo Brasil sobre o sistema prisional vai ao ar hoje (25), \xc3\xa0s 20h50, na TV Brasil.'
+Article 42 printed
+
+
+************************************
+
+
+b'http://agenciabrasil.ebc.com.br/economia/noticia/2016-10/brasil-tem-49-produtos-com-certificacao-de-origem-diz-ibge'
+b'Brasil tem 49 produtos com certifica\xc3\xa7\xc3\xa3o de origem, diz IBGE'
+b'20/10/2016 13h05'
+b'Vitor Abdala \xe2\x80\x93 Rep\xc3\xb3rter da Ag\xc3\xaancia Brasil'
+b'O Brasil tem 49 produtos com certifica\xc3\xa7\xc3\xa3o com Indica\xc3\xa7\xc3\xa3o de Proced\xc3\xaancia ou Denomina\xc3\xa7\xc3\xa3o de Origem. S\xc3\xa3o itens produzidos em uma regi\xc3\xa3o geogr\xc3\xa1fica espec\xc3\xadfica do pa\xc3\xads, que s\xc3\xa3o certificados pelo Instituto Nacional da Propriedade Industrial (Inpi), a pedido de associa\xc3\xa7\xc3\xb5es, sindicatos e cooperativas de produtores locais. O dado foi divulgado hoje (20) pelo Instituto Brasileiro de Geografia e Estat\xc3\xadstica (IBGE).'
+b'\xc3\x89 o caso dos vinhos tintos, brancos e espumantes produzidos no Vale dos Vinhedos, no Rio Grande do Sul, que foram os primeiros a receber certifica\xc3\xa7\xc3\xa3o com Indica\xc3\xa7\xc3\xa3o de Proced\xc3\xaancia no pa\xc3\xads, em 2002. Isso significa que apenas os vinhos produzidos nessa regi\xc3\xa3o ga\xc3\xbacha podem ostentar o t\xc3\xadtulo de vinho do Vale dos Vinhedos.'
+b'O caso mais recente de certifica\xc3\xa7\xc3\xa3o foi o caf\xc3\xa9 verde, torrado e mo\xc3\xaddo da Regi\xc3\xa3o de Pinhal, em S\xc3\xa3o Paulo, em 19 de julho de 2016.'
+b'Entre os produtos certificados no pa\xc3\xads est\xc3\xa3o o vinho, caf\xc3\xa9, carne, cacha\xc3\xa7a, uva, camar\xc3\xa3o, caju\xc3\xadna, cal\xc3\xa7ados, queijo e at\xc3\xa9 servi\xc3\xa7os de tecnologia de informa\xc3\xa7\xc3\xa3o. Vinte estados t\xc3\xaam produtos regionais com certifica\xc3\xa7\xc3\xa3o. O Rio Grande do Sul lidera o ranking com dez produtos, seguido por Minas Gerais, com oito.'
+b'Veja a lista e o mapa dos certificados de Indica\xc3\xa7\xc3\xa3o de Proced\xc3\xaancia ou Denomina\xc3\xa7\xc3\xa3o de Origem.\n '
+Article 43 printed
+
+
+************************************
+
+
+b'http://agenciabrasil.ebc.com.br/es/politica/noticia/2016-10/brasil-detienen-al-expresidente-de-la-camara-de-diputados'
+b'Brasil: Detienen al expresidente de la C\xc3\xa1mara de Diputados'
+b'19/10/2016 15h37'
+b'Mich\xc3\xa8lle Canes \xe2\x80\x93 Reportera de Ag\xc3\xaancia Brasil'
+b'El diputado destituido y expresidente de la c\xc3\xa1mara baja de Brasil Eduardo Cunha fue detenido este mi\xc3\xa9rcoles (19) en Brasilia, en el marco de la Operaci\xc3\xb3n Autolavado. Wilson Dias/Ag\xc3\xaancia Brasil'
+b'El diputado destituido y expresidente de la c\xc3\xa1mara baja de Brasil Eduardo Cunha fue detenido este mi\xc3\xa9rcoles (19) en Brasilia, en el marco de la Operaci\xc3\xb3n Autolavado. La prisi\xc3\xb3n preventiva fue ordenada por el juez Sergio Moro, que conduce las investigaciones del operativo en primera instancia.'
+b'La Polic\xc3\xada Federal confirm\xc3\xb3 la puesta de Cunha en detenci\xc3\xb3n preventiva e inform\xc3\xb3 que el exdirigente quedar\xc3\xa1 detenido en la ciudad de Curitiba, bajo la custodia de la justicia del estado de Paran\xc3\xa1, donde tramitan los procesos relacionados con el megaoperativo.'
+b'Antes de ser destituido de su cargo por la C\xc3\xa1mara de Diputados, el pasado 12 de septiembre, Cunha ten\xc3\xada abiertas en su contra al menos cuatro investigaciones y un proceso penal ante el Supremo Tribunal Federal (STF) por corrupci\xc3\xb3n y lavado de dinero. La Corte Suprema concluy\xc3\xb3 que exist\xc3\xadan indicios de que el entonces diputado recibi\xc3\xb3 sobornos por valor de US$ 1,57 millones a ra\xc3\xadz de un contrato para la construcci\xc3\xb3n de buques sonda para la estatal petrolera Petrobras.'
+b'Tras perder el fuero privilegiado que le otorgaba el cargo de diputado federal, Cunha qued\xc3\xb3 expuesto a la justicia ordinaria y los procesos penales en su contra fueron remitidos al juez Sergio Moro.'
+b'En su fallo, Moro mencion\xc3\xb3 las supuestas cuentas secretas a nombre de Cunha en Suiza, cuya propiedad el exdiputado siempre neg\xc3\xb3. \xe2\x80\x9cMientras no se realice un rastreo completo del dinero y no se identifique con exactitud su ubicaci\xc3\xb3n actual, existe un riesgo de que se disipe el producto del delito, lo que har\xc3\xada inviable su recuperaci\xc3\xb3n\xe2\x80\x9d.'
+b'Otro argumento esgrimido por el magistrado es que hay un mayor riesgo de fuga del exdirigente, que podr\xc3\xada usar los fondos ilegales que mantiene fuera del pa\xc3\xads para fugarse y refugiarse en el exterior.'
+b' '
+b'Traducci\xc3\xb3n: Lucas Magdiel'
+Article 44 printed
+
+
+************************************
+
+
+b'http://agenciabrasil.ebc.com.br/economia/noticia/2016-10/banco-do-brasil-e-caixa-estao-elevando-taxas-de-juros'
+b'Banco do Brasil e Caixa elevam taxas de juros'
+b'17/10/2016 16h05'
+b'Kelly Oliveira \xe2\x80\x93 Rep\xc3\xb3rter da Ag\xc3\xaancia Brasil'
+b'Banco do Brasil e Caixa Econ\xc3\xb4mica Federal est\xc3\xa3o aumentado juros e j\xc3\xa1 superaram bancos privados em algumas modalidades de cr\xc3\xa9dito, segundo dados dispon\xc3\xadveis no site do Banco Central (BC).'
+b'Os juros do cr\xc3\xa9dito para a compra de ve\xc3\xadculos, por exemplo, chegou a 27,06% ao ano, na Caixa Econ\xc3\xb4mica Federal, no final de setembro. Essa \xc3\xa9 a taxa mais cara entre os cinco maiores bancos do pa\xc3\xads. O Banco do Brasil tem a segunda taxa de juros mais cara \xe2\x80\x93 26,96% ao ano. No final de 2015, essa taxa estava em 26,84% ao ano, na Caixa e 26,58%, no Banco do Brasil.'
+b'Entre os cinco maiores bancos, o Santander aparece com a menor taxa (23,33% ao ano) para financiamento de ve\xc3\xadculos, seguido por Ita\xc3\xba Unibanco (26,23% ao ano) e Bradesco (26,15% ao ano) que t\xc3\xaam taxas bem pr\xc3\xb3ximas.'
+b'No caso do rotativo do cart\xc3\xa3o de cr\xc3\xa9dito, empr\xc3\xa9stimo tomado pelo consumidor quando paga menos que o valor integral da fatura, a Caixa (470,56%) e o Banco do Brasil (450,23% ao ano) t\xc3\xaam juros mais caros do que o Bradesco (424,58% ao ano), mas s\xc3\xa3o mais baixos que os do Santander (557,8% ao ano) e Ita\xc3\xba Unibanco (631,86% ao ano).'
+b'No caso do cr\xc3\xa9dito consignado para servidores p\xc3\xbablicos, a Caixa deixou de oferecer a menor taxa (24,61% ao ano), perdendo para o Santander (24,46% ao ano). O Banco do Brasil registrou taxa de 26,96%, acima da do Bradesco (25,12% ao ano) e abaixo do Ita\xc3\xba Unibanco (36,85% ao ano).'
+b'Em nota, a Caixa disse que adotou uma pol\xc3\xadtica para minimizar os efeitos negativos na economia brasileira durante a crise financeira iniciada em 2008. Ap\xc3\xb3s o estouro da crise financeira, bancos p\xc3\xbablicos foram usados como instrumento para impulsionar o cr\xc3\xa9dito a consumidores e empresas e financiar obras de infraestrutura.'
+b'\xe2\x80\x9cA partir de 2012, enquanto os bancos privados iniciaram o processo de recomposi\xc3\xa7\xc3\xa3o das suas margens [de lucro], a Caixa continuou esfor\xc3\xa7os para se manter como o banco das melhores taxas. Com essa estrat\xc3\xa9gia, conseguiu se apresentar com a 2\xc2\xaa maior carteira de cr\xc3\xa9dito do Sistema Financeiro Nacional\xe2\x80\x9d, disse o banco em nota.'
+b'Segundo a Caixa, a partir de 2014, com a mudan\xc3\xa7a na situa\xc3\xa7\xc3\xa3o macroecon\xc3\xb4mica, o banco p\xc3\xbablico iniciou processo de ajuste nas suas taxas de juros, mantendo-as, entretanto, ainda em patamar inferior ao do mercado. De acordo com os dados apresentados pela Caixa, em agosto deste ano a taxa m\xc3\xa9dia de juros de todo o mercado financeiro era 71,9% ao ano e a do banco de 52,6% ao ano.'
+b'\xe2\x80\x9cO movimento de recomposi\xc3\xa7\xc3\xa3o das margens foi necess\xc3\xa1rio para garantir o resultado do banco frente ao cen\xc3\xa1rio macroecon\xc3\xb4mico\xe2\x80\x9d, acrescentou. Al\xc3\xa9m disso, diz o banco, a alta na taxa b\xc3\xa1sica de juros, a Selic, levou a \xe2\x80\x9caumento significativo\xe2\x80\x9d no custo de capta\xc3\xa7\xc3\xa3o de dinheiro, \xe2\x80\x9co que tamb\xc3\xa9m demandou ajustes nos pre\xc3\xa7os, visando \xc3\xa0 manuten\xc3\xa7\xc3\xa3o das margens [de lucro] necess\xc3\xa1rias\xe2\x80\x9d.'
+b'A Caixa  argumentou ainda que com o aumento do risco de inadimpl\xc3\xaancia foi necess\xc3\xa1rio subir os juros. \xe2\x80\x9cO cen\xc3\xa1rio econ\xc3\xb4mico tamb\xc3\xa9m influenciou negativamente a renda das fam\xc3\xadlias, comprometendo a capacidade de pagamento de suas d\xc3\xadvidas, o que fica evidenciado no aumento da inadimpl\xc3\xaancia do segmento de cr\xc3\xa9dito livre. Vale apontar que o aumento no risco dessas opera\xc3\xa7\xc3\xb5es impactou diretamente na defini\xc3\xa7\xc3\xa3o das taxas\xe2\x80\x9d, destacou.'
+b'O Banco do Brasil disse, em nota, que as taxas de cr\xc3\xa9dito da institui\xc3\xa7\xc3\xa3o s\xc3\xa3o definidas por crit\xc3\xa9rios t\xc3\xa9cnicos que consideram, entre outros fatores, as taxas de juros da economia, avalia\xc3\xa7\xc3\xb5es de risco, estrat\xc3\xa9gias comerciais e movimentos da concorr\xc3\xaancia.'
+b'"O Banco do Brasil mant\xc3\xa9m estrat\xc3\xa9gia de educa\xc3\xa7\xc3\xa3o financeira e de oferta da melhor linha de cr\xc3\xa9dito para cada necessidade do cliente. Apenas em setembro, o BB realizou mais de 4 milh\xc3\xb5es de abordagens induzindo o cliente a buscar as linhas de cr\xc3\xa9dito mais baratas em detrimento de outras mais caras, como \xc3\xa9 o caso do cheque especial e do rotativo do cart\xc3\xa3o", destacou.'
+Article 45 printed
+
+
+************************************
+
+
+b'http://agenciabrasil.ebc.com.br/es/geral/noticia/2016-10/militares-brasilenos-son-enviados-haiti'
+b'Brasil env\xc3\xada m\xc3\xa1s militares a Hait\xc3\xad'
+b'17/10/2016 19h09'
+b'Andreia Verd\xc3\xa9lio \xe2\x80\x93 Reportera de Ag\xc3\xaancia Brasil'
+b'Un avi\xc3\xb3n de la Fuerza A\xc3\xa9rea Brasile\xc3\xb1a despeg\xc3\xb3 este lunes (17) de Brasilia con destino a Hait\xc3\xad cargado con 18 toneladas de materiales de mantenimiento y 62 militares de la Armada y del Ej\xc3\xa9rcito que apoyar\xc3\xa1n la Misi\xc3\xb3n de las Naciones Unidas para la Estabilizaci\xc3\xb3n en Hait\xc3\xad (MINUSTAH), comandada por Brasil.'
+b'El \xc3\xbaltimo 4 de octubre, el paso del hurac\xc3\xa1n Matthew por el Caribe agrav\xc3\xb3 la situaci\xc3\xb3n del pa\xc3\xads, que ya se ve\xc3\xada afectado por un terremoto ocurrido en enero de 2010 y por tres a\xc3\xb1os de sequ\xc3\xada relacionada con el fen\xc3\xb3meno El Ni\xc3\xb1o.'
+b'Los militares trabajar\xc3\xa1n en el mantenimiento de veh\xc3\xadculos y de equipos de computaci\xc3\xb3n, salud y refrigeraci\xc3\xb3n, bien como en el armamento de la misi\xc3\xb3n. Las tropas brasile\xc3\xb1as integran la MINUSTAH desde 2014, y tienen asiento en las zonas m\xc3\xa1s conflictivas del pa\xc3\xads caribe\xc3\xb1o, donde brindan apoyo a las actividades de asistencia humanitaria y de fortalecimiento de las instituciones nacionales.'
+b'Los miembros de MINUSTAH se est\xc3\xa1n desplazando desde la sede de la misi\xc3\xb3n en la capital Puerto Pr\xc3\xadncipe a los lugares m\xc3\xa1s afectados por el hurac\xc3\xa1n, ubicados en el sudoeste del pa\xc3\xads, donde ayudar\xc3\xa1n a recuperar carreteras y puentes y a garantizar la seguridad de los convoyes humanitarios.'
+b'Esta es la tercera misi\xc3\xb3n del llamado escuadr\xc3\xb3n Corsario en Hait\xc3\xad con el Boeing 767, un avi\xc3\xb3n de carga que entr\xc3\xb3 en operaci\xc3\xb3n en julio de este a\xc3\xb1o. El pasado viernes (14), el escuadr\xc3\xb3n transport\xc3\xb3 120 tiendas al pa\xc3\xads en apoyo a las personas sin hogar.'
+b'Traducci\xc3\xb3n: Lucas Magdiel'
+Article 46 printed
+
+
+************************************
+
+
+b'http://agenciabrasil.ebc.com.br/cultura/noticia/2016-10/museu-do-banco-do-brasil-foi-aberto-ao-publico-hoje-em-brasilia'
+b'Museu do Banco do Brasil \xc3\xa9 aberto ao p\xc3\xbablico em Bras\xc3\xadlia'
+b'12/10/2016 17h27'
+b'Da Ag\xc3\xaancia Brasil'
+b''
+b'O Museu do Banco do Brasil foi aberto ao p\xc3\xbablico hoje (12), em Bras\xc3\xadlia, com atra\xc3\xa7\xc3\xb5es em comemora\xc3\xa7\xc3\xa3o ao Dia das Crian\xc3\xa7as na \xc3\xa1rea externa e filas para ver a exposi\xc3\xa7\xc3\xa3o Acervos do Brasil: hist\xc3\xb3ria, cultura e cidadania.'
+b'Em comemora\xc3\xa7\xc3\xa3o aos 208 anos do banco, a mostra re\xc3\xbane documentos de valor hist\xc3\xb3rico, c\xc3\xa9dulas, moedas, equipamentos e mobili\xc3\xa1rio. H\xc3\xa1 pe\xc3\xa7as de artes decorativas, pinturas, gravuras e esculturas de nomes importantes das artes visuais, como Portinari, Di Cavalcanti, Carlos Scliar, Tomie Ohtake, Oscar Niemeyer, Athos Bulc\xc3\xa3o e Burle Marx. O museu re\xc3\xbane obras que estavam dispersas em v\xc3\xa1rios espa\xc3\xa7os do Banco do Brasil pelo pa\xc3\xads.'
+b''
+b'Exposi\xc3\xa7\xc3\xa3o Acervos do Brasil: hist\xc3\xb3ria, cultura e cidadania, no Museu Banco do Brasil, re\xc3\xbane documentos de valor hist\xc3\xb3rico, c\xc3\xa9dulas, moedas, equipamentos, mobili\xc3\xa1rios, artes decorativas, pinturas, gravuras e esculturas Valter Campanato/Ag\xc3\xaancia Brasil'
+b'A funcion\xc3\xa1ria p\xc3\xbablica Ana Cristina Barbosa Barreto, 49 anos, levou as duas filhas e a sobrinha para visitar o novo espa\xc3\xa7o. \xe2\x80\x9cVim para as atividades de inaugura\xc3\xa7\xc3\xa3o do museu junto com o Dia das Crian\xc3\xa7as.\xe2\x80\x9d'
+b'Na \xc3\xbaltima segunda-feira (10), a curadora da exposi\xc3\xa7\xc3\xa3o, Maria Ignez Mantovani, disse que a mostra \xc3\xa9 dividida em partes para mostrar melhor a hist\xc3\xb3ria do banco. \xe2\x80\x9cQuando houve a decis\xc3\xa3o de criar o museu, primeiro fizemos uma pesquisa do acervo art\xc3\xadstico e da hist\xc3\xb3ria. Foram tr\xc3\xaas anos selecionando as tipologias de acervo. Dividimos em tr\xc3\xaas partes, deixando claro o entrela\xc3\xa7amento da hist\xc3\xb3ria do banco com o desenvolvimento econ\xc3\xb4mico e da hist\xc3\xb3ria do pa\xc3\xads.\xe2\x80\x9d'
+b'Al\xc3\xa9m da hist\xc3\xb3ria da institui\xc3\xa7\xc3\xa3o e do pa\xc3\xads e do acervo de arte, a mostra tem depoimentos de funcion\xc3\xa1rios e espa\xc3\xa7o educacional. \xe2\x80\x9cA exposi\xc3\xa7\xc3\xa3o come\xc3\xa7a com a carta do [Pero Vaz de] Caminha, j\xc3\xa1 para preparar o visitante para uma nova hist\xc3\xb3ria, seguido de uma linha do tempo, que liga a hist\xc3\xb3ria do banco \xc3\xa0 hist\xc3\xb3ria do pa\xc3\xads. Uma parte central que destaca a atua\xc3\xa7\xc3\xa3o de funcion\xc3\xa1rios do banco, seguido de uma primeira sele\xc3\xa7\xc3\xa3o dos depoimentos de colaboradores.\xe2\x80\x9d'
+Article 47 printed
+
+
+************************************
+
+
+b'http://agenciabrasil.ebc.com.br/geral/noticia/2016-10/corte-internacional-analisa-denuncia-de-chacina-no-brasil'
+b'Corte internacional analisa den\xc3\xbancia de chacina no Brasil'
+b'12/10/2016 19h50'
+b'Akemi Nitahara \xe2\x80\x93 Rep\xc3\xb3rter da Ag\xc3\xaancia Brasil'
+b'A primeira parte da audi\xc3\xaancia na Corte Interamericana de Direitos Humanos (Corte IDH), da Organiza\xc3\xa7\xc3\xa3o dos Estados Americanos (OEA) foi realizada na tarde de hoje (12), em Quito, no Equador, sede da entidade, para analisar a execu\xc3\xa7\xc3\xa3o de 26 pessoas e de tortura sexual de tr\xc3\xaas adolescentes, supostamente praticadas por policiais civis, em incurs\xc3\xb5es na Favela Nova Bras\xc3\xadlia, no Complexo do Alem\xc3\xa3o, zona norte do Rio de Janeiro, nos dias 18 de outubro de 1994 e 8 de maio de 1995.'
+b'O relator para o Estado brasileiro na Corte, Francisco Eguiguren Praeli, afirmou que, entre os mortos estavam seis crian\xc3\xa7as e h\xc3\xa1 ind\xc3\xadcios de uso excessivo de for\xc3\xa7a letal por parte dos agentes do estado, al\xc3\xa9m da continuidade da inadequa\xc3\xa7\xc3\xa3o nas investiga\xc3\xa7\xc3\xb5es, feitas de forma a culpar as v\xc3\xadtimas pela pr\xc3\xb3pria morte e n\xc3\xa3o de apurar a legitimidade e proporcionalidade do uso da for\xc3\xa7a letal.'
+b'\xe2\x80\x9cPassaram-se mais de 20 anos dessas 26 execu\xc3\xa7\xc3\xb5es extrajudiciais e atos de tortura sexual dessas adolescentes, mas os casos continuam em uma situa\xc3\xa7\xc3\xa3o de total impunidade. O caso inclui a estigmatiza\xc3\xa7\xc3\xa3o das v\xc3\xadtimas como criminosos e a consequente sensa\xc3\xa7\xc3\xa3o de impunidade dos envolvidos\xe2\x80\x9d, disse Praeli.'
+b'Depondo em nome dos parentes das v\xc3\xadtimas, Mac Laine Farias Neves, irm\xc3\xa3 de Macmiller Farias Neves, que tinha 17 anos quando foi morto, disse que a corte \xc3\xa9 a \xc3\xbaltima esperan\xc3\xa7a de justi\xc3\xa7a para os mortos. Muito emocionada, ela disse que a vers\xc3\xa3o que apareceu na m\xc3\xaddia n\xc3\xa3o foi confirmada pelos moradores do local.'
+b'O representante do Estado brasileiro Pedro Murilo Ortega Terra, ministro conselheiro da Embaixada do Brasil em Quito, informou que o pa\xc3\xads reconhece que os agentes p\xc3\xbablicos foram respons\xc3\xa1veis pelas mortes \xe2\x80\x9cem ato que consideramos il\xc3\xadcito durante a incurs\xc3\xa3o policial\xe2\x80\x9d. Tamb\xc3\xa9m foi informado que houve tentativa do estado do Rio de Janeiro em 2013 se chegar a um acordo para pagamento de indeniza\xc3\xa7\xc3\xa3o aos familiares das v\xc3\xadtimas, mas que n\xc3\xa3o chegou a ser firmado.'
+b'Tamb\xc3\xa9m foi ouvida hoje a consultora em direito penal internacional e direito internacional humanit\xc3\xa1rio Patricia Viseur-Sellers, que discorreu sobre a prote\xc3\xa7\xc3\xa3o necess\xc3\xa1ria a crian\xc3\xa7as e adolescentes em investiga\xc3\xa7\xc3\xb5es criminais, bem como a v\xc3\xadtimas de viol\xc3\xaancia sexual e como se caracteriza um crime de tortura sexual.'
+b'Amanh\xc3\xa3 (13) ocorrem mais duas sess\xc3\xb5es de audi\xc3\xaancia sobre o caso, uma pela manh\xc3\xa3 e outra pela tarde.'
+Article 48 printed
+
+
+************************************
+
+
+b'http://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2016-10/tema-da-adocao-sempre-foi-dificil-no-brasil-cadastros-dificultam'
+b'Ado\xc3\xa7\xc3\xa3o sempre foi dif\xc3\xadcil no Brasil, diz advogada'
+b'07/10/2016 17h10'
+b'Fl\xc3\xa1via Albuquerque \xe2\x80\x93 Rep\xc3\xb3rter da Ag\xc3\xaancia Brasil'
+b''
+b'Ado\xc3\xa7\xc3\xa3oArquivo/Ag\xc3\xaancia Brasil'
+b'Fam\xc3\xadlias interessadas em adotar uma crian\xc3\xa7a precisam enfrentar um processo muitas vezes lento. Uma das dificuldades \xc3\xa9 o cruzamento de informa\xc3\xa7\xc3\xb5es das crian\xc3\xa7as nos cadastros e a fam\xc3\xadlia que pretende adotar. \xe2\x80\x9cO processo de ado\xc3\xa7\xc3\xa3o \xc3\xa9 feito em dois pontos: h\xc3\xa1 aquela crian\xc3\xa7a que precisa ser desligada da fam\xc3\xadlia para ser adotada, e esse processo \xc3\xa9 muito lento, deixando a crian\xc3\xa7a institucionalizada muito tempo. \xc3\x89 h\xc3\xa1 aqueles pais que querem adotar que precisam passar por um processo dentro do Poder Judici\xc3\xa1rio e que tamb\xc3\xa9m \xc3\xa9 muito moroso\xe2\x80\x9d, disse a diretora da Associa\xc3\xa7\xc3\xa3o dos Advogados de S\xc3\xa3o Paulo (AASP), Viviane Girardi. Ela tamb\xc3\xa9m \xc3\xa9 coordenadora do evento Ado\xc3\xa7\xc3\xa3o: Quanto tempo o tempo tem?, que ocorreu hoje (7), em S\xc3\xa3o Paulo. '
+b'Segundo a advogada, regras do Cadastro Nacional de Ado\xc3\xa7\xc3\xa3o que foram alteradas recentemente tornam ainda mais d\xc3\xadficil a busca de uma crian\xc3\xa7a para ser adotada. Ela citou, como exemplo, uma fam\xc3\xadlia procura uma crian\xc3\xa7a de 9 anos de idade. No entanto, o cadastro tem somente crian\xc3\xa7as com 9 anos e dois meses. Apesar da pequena diferen\xc3\xa7a de idade, o cadastro n\xc3\xa3o entende que essa fam\xc3\xadlia pode estar interessada nessa crian\xc3\xa7a e n\xc3\xa3o permite a continuidade do processo. '
+b'\xe2\x80\x9cAt\xc3\xa9 2015, esse cadastro permitia que os ju\xc3\xadzes e promotores colocassem elementos que traziam visibilidade e condi\xc3\xa7\xc3\xb5es das crian\xc3\xa7as de modo mais humanizado. O sistema atual de cadastro n\xc3\xa3o permite maior flexibilidade para que o juiz possa entender o perfil dessa crian\xc3\xa7a e buscar um perfil pr\xc3\xb3ximo", disse a advogada.'
+b'Viviane lembrou que, quando uma crian\xc3\xa7a \xc3\xa9 adotada e tirada de uma institui\xc3\xa7\xc3\xa3o, a sociedade est\xc3\xa1 dando a ela a oportunidade de ter uma fam\xc3\xadlia e uma gama de direitos fundamentais que a Constitui\xc3\xa7\xc3\xa3o garante, al\xc3\xa9m de la\xc3\xa7os afetivos, fam\xc3\xadlia com av\xc3\xb3s, tios. Com isso, aumenta-se a teia de prote\xc3\xa7\xc3\xa3o em torno dessa crian\xc3\xa7a, que antes ficava marcada pela impessoalidade de uma institui\xc3\xa7\xc3\xa3o.'
+b'Casais homoafetivos'
+b'No caso dos casais homoafetivos, h\xc3\xa1 ainda interpreta\xc3\xa7\xc3\xa3o de que a orienta\xc3\xa7\xc3\xa3o sexual possa interferir na forma\xc3\xa7\xc3\xa3o da fam\xc3\xadlia e esses casais encontram dificuldades de se habilitarem para ado\xc3\xa7\xc3\xa3o de uma crian\xc3\xa7a. \xe2\x80\x9cO Judici\xc3\xa1rio est\xc3\xa1 a\xc3\xad para afastar essas dificuldades, porque isso \xc3\xa9 ilegal. Seria um preconceito por parte do pr\xc3\xb3prio Poder Judici\xc3\xa1rio. Sob o ponto de vista dos direitos \xc3\xa9 exatamente igual. N\xc3\xb3s recomendamos, inclusive, que se declare a orienta\xc3\xa7\xc3\xa3o sexual, porque isso n\xc3\xa3o \xc3\xa9 o que define se a pessoa \xc3\xa9 ou n\xc3\xa3o boa para adotar".'
+b''
+b'Dia 25 de maio \xc3\xa9 o Dia Nacional da Ado\xc3\xa7\xc3\xa3oArquivo/Antonio Cruz/Ag\xc3\xaancia Brasil'
+b'O professor de idiomas Claus-Peter Willi vive h\xc3\xa1 26 anos com H\xc3\xa9lio Yoshinori Eto, com quem se casou em novembro de 2012. Eles t\xc3\xaam dois filhos adotivos e o primeiro foi adotado apenas por Claus, porque eles n\xc3\xa3o tinham seguran\xc3\xa7a jur\xc3\xaddica com rela\xc3\xa7\xc3\xa3o \xc3\xa0 ado\xc3\xa7\xc3\xa3o por casais homoafetivos. Ap\xc3\xb3s o casamento oficial, H\xc3\xa9lio fez a ado\xc3\xa7\xc3\xa3o unilateral, o que permitiu que a crian\xc3\xa7a tenha agora o nome de dois pais na certid\xc3\xa3o de nascimento. A ado\xc3\xa7\xc3\xa3o do segundo filho foi feita j\xc3\xa1 em nome do casal.'
+b'\xe2\x80\x9cN\xc3\xb3s sempre optamos pela ado\xc3\xa7\xc3\xa3o tardia e nosso perfil eram crian\xc3\xa7as de sete a 11 anos de idade, a maioria das crian\xc3\xa7as abrigadas e que tem 1% de chance de serem adotadas. Nosso primeiro filho nasceu para n\xc3\xb3s aos 11 anos de idade e hoje tem 17. O segundo nasceu com 13 e agora est\xc3\xa1 com 15. N\xc3\xb3s nunca tivemos problema com rela\xc3\xa7\xc3\xa3o \xc3\xa0 nossa uni\xc3\xa3o homoafetiva ou nossa op\xc3\xa7\xc3\xa3o sexual\xe2\x80\x9d, disse o professro Claus-Peter Willi.'
+b'O \xc3\xbanico problema relatado pelo professor ocorreu na primeira ado\xc3\xa7\xc3\xa3o, porque a Justi\xc3\xa7a ainda n\xc3\xa3o havia destitu\xc3\xaddo o p\xc3\xa1trio poder do pai biol\xc3\xb3gico. O casal esperou tr\xc3\xaas anos para que o impasse fosse resolvido, mesmo com o menino j\xc3\xa1 morando com eles. \xe2\x80\x9cMesmo aos pais ausentes \xc3\xa9 dado o poder de ampla defesa mesmo na destitui\xc3\xa7\xc3\xa3o do p\xc3\xa1trio poder. O juiz recorreu tr\xc3\xaas vezes \xc3\xa0 revelia do pai biol\xc3\xb3gico para garantir que o pai n\xc3\xa3o queria o menino. Isso cria uma inseguran\xc3\xa7a emocional, porque n\xc3\xa3o sabemos se o pai bater\xc3\xa1 na nossa porta exigindo o filho\xe2\x80\x9d.'
+b'Segundo Claus, o caso j\xc3\xa1 est\xc3\xa1 resolvido e as crian\xc3\xa7as se adaptaram. Ele contou que os dois meninos ficaram sete anos em um abrigo, sem aten\xc3\xa7\xc3\xa3o, est\xc3\xadmulo, carinho e amor individualizados. \xe2\x80\x9cEles come\xc3\xa7aram a viver normalmente sua vida a partir do momento que se sentiram seguros no nosso lar. Existe um lapso de tempo perdido e que na ado\xc3\xa7\xc3\xa3o tardia as crian\xc3\xa7as tentam recuperar e n\xc3\xb3s temos que ter esse entendimento de que \xc3\xa9 a idade emocional e n\xc3\xa3o a cronol\xc3\xb3gica\xe2\x80\x9d, disse.'
+Article 49 printed
+
+
+************************************
+
+
+b'http://agenciabrasil.ebc.com.br/es/politica/noticia/2016-09/brasil-sufre-atentado-el-vicegobernador-de-goias'
+b'Brasil: sufre atentado el vicegobernador de Goi\xc3\xa1s'
+b'29/09/2016 09h12'
+b'Ivan Richard \xe2\x80\x93 Reportero de Ag\xc3\xaancia Brasil'
+b'El gobernador en funciones de Goi\xc3\xa1s, Jos\xc3\xa9 Eliton de Figuer\xc3\xaado J\xc3\xbaniorDivulga\xc3\xa7\xc3\xa3o/Governo de Goi\xc3\xa1s'
+b'El gobernador en funciones de Goi\xc3\xa1s, Jos\xc3\xa9 Eliton de Figuer\xc3\xaado J\xc3\xbanior, quien es vicegobernador y secretario de seguridad del estado, recibi\xc3\xb3 un disparo el mi\xc3\xa9rcoles (28) durante su participaci\xc3\xb3n en una caravana en la ciudad sure\xc3\xb1a de Itumbiara. El candidato a la alcald\xc3\xada local, Jos\xc3\xa9 Gomes da Rocha, y el polic\xc3\xada militar Vanilson Rodrigues, quien integraba el equipo de seguridad, tambi\xc3\xa9n resultaron heridos y murieron en el ataque.'
+b'El autor de los disparos, identificado por la polic\xc3\xada como Gilberto Ferreira do Amaral, de 53 a\xc3\xb1os, era empleado del gobierno municipal y fue muerto en el local por el equipo de seguridad. Seg\xc3\xban los informes, durante la caravana, Gilberto entr\xc3\xb3 con un coche en la direcci\xc3\xb3n opuesta y fue contra el veh\xc3\xadculo donde estaban los pol\xc3\xadticos, haciendo varios disparos.'
+b'Herido en la regi\xc3\xb3n abdominal, el vicegobernador no corre riesgo de morir y su estado de salud es estable, seg\xc3\xban un comunicado del gobierno. El abogado de la alcald\xc3\xada de Itumbiara, Celio Rezende, tambi\xc3\xa9n recibi\xc3\xb3 un disparo y fue hospitalizado.'
+b'El ministro Gilmar Mendes, presidente del Tribunal Superior Electoral, emiti\xc3\xb3 un comunicado repudiando el ataque. Mendes reafirm\xc3\xb3 el compromiso de exigir la investigaci\xc3\xb3n de muertes relacionadas con las elecciones municipales y dijo que pidi\xc3\xb3 el apoyo de la Polic\xc3\xada Federal para ello.'
+b'Traducci\xc3\xb3n: Leonardo Vieira'
+Article 50 printed
+
+
+************************************
+
+
+b'http://agenciabrasil.ebc.com.br/economia/noticia/2016-09/producao-de-tilapia-aumenta-97-no-brasil-diz-ibge'
+b'Produ\xc3\xa7\xc3\xa3o de til\xc3\xa1pia aumenta 9,7% no Brasil, diz IBGE'
+b'29/09/2016 10h04'
+b'Vinicius Lisboa - Rep\xc3\xb3rter da Ag\xc3\xaancia Brasil'
+b''
+b'Produ\xc3\xa7\xc3\xa3o de til\xc3\xa1pia no Brasil est\xc3\xa1 concentrada em quatro estados, sendo o Paran\xc3\xa1 o maior produtor, com 28,8%. S\xc3\xa3o Paulo produz 13,2%, seguido por Cear\xc3\xa1, com 12,7%, e Santa Catarina, com 11,4%Emater/Divulga\xc3\xa7\xc3\xa3o'
+b'A produ\xc3\xa7\xc3\xa3o de til\xc3\xa1pia no Brasil aumentou 9,7% em 2015 e chegou a 219 mil toneladas entre janeiro e dezembro. O peixe \xc3\xa9 o mais criado pela piscicultura no pa\xc3\xads e chega a 45,4% do total da produ\xc3\xa7\xc3\xa3o total. Os dados foram divulgados hoje (29) pelo Instituto Brasileiro de Geografia e Estat\xc3\xadstica, na Pesquisa da Pecu\xc3\xa1ria Municipal.'
+b'A produ\xc3\xa7\xc3\xa3o de til\xc3\xa1pia no Brasil est\xc3\xa1 concentrada principalmente em quatro estados, sendo o Paran\xc3\xa1 o maior produtor, com 28,8%. S\xc3\xa3o Paulo produz 13,2%, seguido por Cear\xc3\xa1, com 12,7%, e Santa Catarina, com 11,4%.'
+b'A cidade cearense de Jaguaribara \xc3\xa9 a l\xc3\xadder na cria\xc3\xa7\xc3\xa3o de til\xc3\xa1pia, com 13,8 mil toneladas do pescado, o que equivale a 6,3% da produ\xc3\xa7\xc3\xa3o nacional. Sua produ\xc3\xa7\xc3\xa3o teve uma queda em rela\xc3\xa7\xc3\xa3o a 2014, por causa da baixa do reservat\xc3\xb3rio e da falta de oxigena\xc3\xa7\xc3\xa3o no A\xc3\xa7ude Castanh\xc3\xa3o. Os problemas causaram a perda de 3 mil toneladas do pescado.'
+b'Produ\xc3\xa7\xc3\xa3o de peixes cresce 1,5%.'
+b'O desempenho dos criadores de til\xc3\xa1pia contribuiu para que a produ\xc3\xa7\xc3\xa3o de peixes no Brasil crescesse 1,5% em 2015.'
+b'Foram produzidas durante o ano 483,2 mil toneladas, com um valor de mais de R$ 3 bilh\xc3\xb5es. Rond\xc3\xb4nia responde por 17,5% dessa produ\xc3\xa7\xc3\xa3o e por 18,5% do valor gerado pela piscicultura.'
+b'Enquanto a til\xc3\xa1pia \xc3\xa9 mais produzida no Sul, Sudeste e Nordeste, no Norte os peixes conhecidos como redondos s\xc3\xa3o os mais criados, como o tambaqui, tambacu e pacu.\nO tambaqui foi o segundo peixe mais produzido no Brasil em 2015, com 135 mil toneladas, peso que corresponde a 28,1% da produ\xc3\xa7\xc3\xa3o brasileira.'
+Article 51 printed
+
+
+************************************
+
+
+b'http://agenciabrasil.ebc.com.br/es/cultura/noticia/2016-09/pelicula-sobre-inmigrante-gana-festival-de-brasilia'
+b'Pel\xc3\xadcula sobre inmigrante gana Festival de Brasilia'
+b'28/09/2016 10h39'
+b'Heloisa Cristaldo \xe2\x80\x93 Reportera de Ag\xc3\xaancia Brasil'
+b'Ganadores de la 49.\xc2\xaa edici\xc3\xb3n del Festival de Brasilia del Cine Brasile\xc3\xb1oWilson Dias/Ag\xc3\xaancia Brasil'
+b'El largometraje A Cidade Onde Envelhe\xc3\xa7o, de Mar\xc3\xadlia Rocha, fue el gran ganador de la 49\xc2\xaa edici\xc3\xb3n del Festival de Bras\xc3\xadlia del Cine Brasile\xc3\xb1o. La pel\xc3\xadcula recibi\xc3\xb3 cuatro trofeos Candangos con los premios a mejor pel\xc3\xadcula, mejor direcci\xc3\xb3n, mejor actor secundario para Wederson Neguinho y mejor actriz \xe2\x80\x93este dividido entre Elizabeth Francisca y Francisca Manuel\xe2\x80\x93. La pel\xc3\xadcula narra el drama de Teresa, una chica portuguesa que decide abandonar su pa\xc3\xads para vivir en Brasil.'
+b'El documental Mart\xc3\xadrio fue el ganador del premio a mejor pel\xc3\xadcula por el jurado popular.Wilson Dias/Ag\xc3\xaancia Brasil'
+b'El documental Mart\xc3\xadrio fue el ganador del premio a mejor pel\xc3\xadcula por el jurado popular. La animaci\xc3\xb3n Quando os Dias Eram Eternos gan\xc3\xb3 como mejor corto. As\xc3\xad como en la apertura del festival, la ceremonia de entrega de premios estuvo marcada por protestas contra el gobierno del presidente Michel Temer en los discursos de muchos de los ganadores. Seg\xc3\xban los organizadores del evento, unas 30 mil personas vieron las pel\xc3\xadculas.'
+b'El evento ofreci\xc3\xb3 este a\xc3\xb1o US$ 105 mil en premios, la misma cifra del a\xc3\xb1o pasado. Los m\xc3\xa1s altos son para producciones de largometraje y la mejor pel\xc3\xadcula gan\xc3\xb3 US$ 31 mil.'
+b'En total, 132 largos se inscribieron en el festival. La comisi\xc3\xb3n que evalu\xc3\xb3 las producciones estuvo formada por cinco expertos y todas las pel\xc3\xadculas finalistas a\xc3\xban no se exhibieron en Brasil.'
+b'Traducci\xc3\xb3n: Leonardo Vieira'
+Article 52 printed
+
+
+************************************
+
+
+b'http://agenciabrasil.ebc.com.br/economia/noticia/2016-09/diretora-do-fmi-diz-que-brasil-ja-mostra-alguns-sinais-de-melhoria'
+b'Diretora do FMI diz que Brasil j\xc3\xa1 mostra "alguns sinais de melhoria"'
+b'28/09/2016 11h30'
+b'Jos\xc3\xa9 Romildo - Correspond\xc3\xaancia da Ag\xc3\xaancia Brasil'
+b''
+b'Christine Lagarde disse que as perspectivas das economias emergentes e em desenvolvimento "merecem um otimismo cauteloso"Marcello Casal Jr./Arquivo/Ag\xc3\xaancia Brasil'
+b'Ao fazer hoje (28) uma an\xc3\xa1lise da economia mundial, a diretora-gerente do Fundo Monet\xc3\xa1rio Internacional, Christine Lagarde, citou o Brasil e a R\xc3\xbassia como pa\xc3\xadses que est\xc3\xa3o "mostrando alguns sinais de melhoria ap\xc3\xb3s um per\xc3\xadodo de severa contra\xc3\xa7\xc3\xa3o". Ela disse que a economia mundial ainda apresenta uma s\xc3\xa9rie de fragilidades, mas acrescentou que as perspectivas das economias emergentes e em desenvolvimento "merecem um otimismo cauteloso".'
+b'Em palestra na escola Kellogg de Administra\xc3\xa7\xc3\xa3o, na Universidade de Northwestern, nos Estados Unidos, ela disse que as economias emergentes, que  lideram a recupera\xc3\xa7\xc3\xa3o mundial desde a crise financeira de 2008, v\xc3\xa3o continuar contribuindo com mais de tr\xc3\xaas quartos do crescimento global este ano e tamb\xc3\xa9m em 2017.'
+b'A diretora do FMI disse que a China, que \xc3\xa9 um dos sustent\xc3\xa1culos desse crescimento das economias emergentes, vem trabalhando nos \xc3\xbaltimos anos para equilibrar a expans\xc3\xa3o de sua ind\xc3\xbastria como a \xc3\xa1rea de servi\xc3\xa7os e tem reorientado o seu foco para o consumo interno. Isso, de acordo com Lagarde, vai permitir o desenvolvimento sustent\xc3\xa1vel do pa\xc3\xads, mesmo com crescimento mais lento. Lembrou que esse crescimento lento \xc3\xa9 ainda "robusto" porque significa uma expans\xc3\xa3o anual de 6% para o pa\xc3\xads.'
+b'\xc3\x8dndia faz reformas significativas'
+b'Christine Lagarde destacou, tamb\xc3\xa9m, o exemplo da \xc3\x8dndia, que "tamb\xc3\xa9m est\xc3\xa1 embarcando em reformas significativas" em sua economia, o que permite que o pa\xc3\xads cres\xc3\xa7a a uma taxa de 7% ao ano.'
+b'Para a diretora do FMI, o lado ruim - para as economias em desenvolvimento - \xc3\xa9 que os pa\xc3\xadses exportadores de commodities ainda est\xc3\xa3o sendo duramente atingidos pelos pre\xc3\xa7os baixos, enquanto os pa\xc3\xadses do Oriente M\xc3\xa9dio "continuam a sofrer com os conflitos e com o terrorismo".'
+b'Segundo Lagarde,, levando-se em conta os pontos positivos e negativos da economia mundial, os pa\xc3\xadses ainda v\xc3\xa3o enfrentar durante muito tempo os problemas decorrentes do baixo crescimento. Ela acrescentou que os pontos positivos hoje beneficiam "muito poucos".'
+Article 53 printed
+
+
+************************************
+
+
+b'http://agenciabrasil.ebc.com.br/es/politica/noticia/2016-10/brasil-elecciones-municipales-transcurrieron-en-paz'
+b'Brasil: elecciones municipales transcurrieron en paz'
+b'03/10/2016 09h21'
+b'Andr\xc3\xa9 Richter \xe2\x80\x93 Reportero de Ag\xc3\xaancia Brasil'
+b''
+b'El presidente del Tribunal Superior Electoral destac\xc3\xb3 que la primera vuelta de las elecciones municipales transcurri\xc3\xb3 \xe2\x80\x9cen un clima de normalidad y paz\xe2\x80\x9d.Valter Campanato/Ag\xc3\xaancia Brasil'
+b'La primera vuelta de las elecciones municipales de Brasil, que tuvo lugar el domingo (2), transcurri\xc3\xb3 \xe2\x80\x9cen un clima de normalidad y paz\xe2\x80\x9d, dijo el presidente del Tribunal Superior Electoral (TSE), ministro Gilmar Mendes. De acuerdo con el balance final de la votaci\xc3\xb3n, emitido por la Justicia Electoral, habr\xc3\xa1 segunda vuelta en 27 municipios del pa\xc3\xads.'
+b'Aunque destac\xc3\xb3 que las elecciones se dieron sin problemas, Mendes expres\xc3\xb3 tambi\xc3\xa9n su preocupaci\xc3\xb3n por los ataques a locales de votaci\xc3\xb3n en la capital de Maranh\xc3\xa3o y otros incidentes registrados en R\xc3\xado de Janeiro. Sin embargo, el ministro dijo que los ataques no est\xc3\xa1n relacionados con el per\xc3\xadodo electoral, \xe2\x80\x9csino, muy probablemente, a la presencia del crimen organizado en el contexto general\xe2\x80\x9d.'
+b'En la misma conferencia de prensa, el ministro de Defensa, Raul Jungmann, present\xc3\xb3 el balance final de las actividades de las Fuerzas Armadas en las elecciones. Seg\xc3\xban el ministro, 25,2 mil hombres fueron enviados a 498 municipios de 17 estados. En las elecciones municipales de 2012, el efectivo hab\xc3\xada sido enviado a 477 ciudades.'
+b'Traducci\xc3\xb3n: Leonardo Vieira'
+Article 54 printed
+
+
+************************************
+
+
+b'http://agenciabrasil.ebc.com.br/es/educacao/noticia/2016-09/propuesta-de-reforma-de-la-secundaria-repercute-en-brasil'
+b'Propuesta de reforma de la secundaria repercute en Brasil'
+b'23/09/2016 10h37'
+b'Ag\xc3\xaancia Brasil'
+b''
+b''
+b'Presidente Michel TemerValter Campanato/Ag\xc3\xaancia Brasil'
+b'La propuesta de reestructuraci\xc3\xb3n de la escuela secundaria, anunciada el jueves (22) por el gobierno del presidente Michel Temer, est\xc3\xa1 repercutiendo entre expertos y profesionales de la educaci\xc3\xb3n en Brasil, quienes creen que la Medida Provisional necesita acompa\xc3\xb1arse de m\xc3\xa1s inversi\xc3\xb3n en la carrera de los trabajadores, en las escuelas, y en la contrataci\xc3\xb3n de m\xc3\xa1s profesores.'
+b'La intenci\xc3\xb3n del gobierno es que la ense\xc3\xb1anza secundaria tenga, en los pr\xc3\xb3ximos tres a\xc3\xb1os, mitad de la carga horaria de contenidos obligatorios, establecidos por los par\xc3\xa1metros curriculares nacionales, que todav\xc3\xada est\xc3\xa1n bajo discusi\xc3\xb3n. La otra mitad de los contenidos ser\xc3\xada flexible, con base en los intereses de los estudiantes y en las especificidades de las escuelas p\xc3\xbablicas en cada estado brasile\xc3\xb1o. Los alumnos podr\xc3\xa1n elegir entre algunas \xc3\xa1reas: lenguas, matem\xc3\xa1tica, ciencias naturales y humanidades.'
+b'Eduardo Deschamps, presidente del Consejo Nacional de Secretarios de Educaci\xc3\xb3n de los EstadosValter Campanato/Ag\xc3\xaancia Brasil'
+b'Seg\xc3\xban Eduardo Deschamps, presidente del Consejo Nacional de Secretarios de Educaci\xc3\xb3n de los Estados, la reforma deber\xc3\xa1 ser lo m\xc3\xa1s amplia posible para permitir la autonom\xc3\xada de los estados, que podr\xc3\xa1n, por ejemplo, crear escuelas especializadas. \xe2\x80\x9cEstamos entusiasmados porque es la primera vez que vemos el Ministerio de Educaci\xc3\xb3n decir que respetar\xc3\xa1 el potencial innovador de cada estado en el proceso\xe2\x80\x9d, dijo.'
+b'Oscar Halac, director del Colegio Pedro II, una de las escuelas m\xc3\xa1s antiguas del pa\xc3\xads, considera la reforma innovadora, pero dice que ser\xc3\xa1 necesario un per\xc3\xadodo de ajuste. \xe2\x80\x9cPara nosotros, que no tenemos tradici\xc3\xb3n de profesionalizaci\xc3\xb3n, nos costar\xc3\xa1 adaptarnos. Pero el hecho es que existe hoy una cierta distancia de los estudiantes respecto a la escuela, especialmente en la secundaria\xe2\x80\x9d, dijo. En Brasil, la secundaria est\xc3\xa1 destinada a j\xc3\xb3venes de 16 a 18 a\xc3\xb1os.'
+b'Seg\xc3\xban Halac, la medida tiene la virtud de ser un intento de mejora \xe2\x80\x9ctras algunos a\xc3\xb1os sin ning\xc3\xban intento\xe2\x80\x9d. \xe2\x80\x9cEs una decisi\xc3\xb3n que busca salir de la inercia. Es positiva. Lo que no es positivo es la falta de condiciones para que eso ocurra\xe2\x80\x9d, reflexion\xc3\xb3.'
+b'El director abog\xc3\xb3 por la creaci\xc3\xb3n, entre las nuevas medidas, de un plan de carreras y formaci\xc3\xb3n para los profesores y por \xe2\x80\x9cclases m\xc3\xa1s participativas y menos expositivas\xe2\x80\x9d. \xe2\x80\x9cNo existe hoy un atractivo en la escuela que corresponda a la velocidad con que se proporciona la informaci\xc3\xb3n que los alumnos tienen fuera de ella. Ya no es una generaci\xc3\xb3n que se contenta con estar sentada por cinco horas y ver un desfile de profesores que repiten verdades ya dichas\xe2\x80\x9d, dijo Halac.'
+b'Camila Lanes, presidenta de la Uni\xc3\xb3n Brasile\xc3\xb1a de Estudiantes Secundarios, critic\xc3\xb3 el hecho de que la medida no fue discutida con los alumnos. \xe2\x80\x9cAtravesamos hoy una crisis muy grande en la escuela secundaria, desde la seguridad p\xc3\xbablica hasta el material did\xc3\xa1ctico. No es que el gobierno federal tiene la responsabilidad de resolver todos los problemas de las escuelas p\xc3\xbablicas, ya que muchos son responsabilidad de los estados\xe2\x80\x9d, dijo.'
+b'Ella reconoci\xc3\xb3 que, sin embargo, hay puntos positivos en los cambios propuestos por el gobierno, en particular la libertad de que los estudiantes elijan parte de las asignaturas. \xe2\x80\x9cLa propuesta es interesante, no se puede negar. Pero a\xc3\xban as\xc3\xad creemos que el plan de estudios podr\xc3\xada enfocar m\xc3\xa1s nuestro desarrollo intelectual y ciudadano.\xe2\x80\x9d'
+b'La dirigente del Sindicato de Profesionales de la Educaci\xc3\xb3n de R\xc3\xado de Janeiro, Marta Moraes, tambi\xc3\xa9n critic\xc3\xb3 la falta de di\xc3\xa1logo con la categor\xc3\xada. Seg\xc3\xban ella, el sindicato defiende una formaci\xc3\xb3n general de calidad, que d\xc3\xa9 condiciones al estudiante de elegir la profesi\xc3\xb3n que quiera. \xe2\x80\x9cEste tipo de medida, en principio, parece interesante, pero tomar una decisi\xc3\xb3n as\xc3\xad sin ning\xc3\xban tipo de discusi\xc3\xb3n es muy malo. Tenemos problemas de infraestructura, de valoraci\xc3\xb3n de los profesores. Estamos estudiando la propuesta\xe2\x80\x9d, dijo.'
+b'Traducci\xc3\xb3n: Leonardo Vieira'
+Article 55 printed
+
+
+************************************
+
+
+b'http://agenciabrasil.ebc.com.br/es/geral/noticia/2016-09/brasil-prepara-segunda-fase-de-enriquecimiento-de-uranio'
+b'Brasil prepara segunda fase de enriquecimiento de uranio'
+b'22/09/2016 09h20'
+b'Alana Gandra \xe2\x80\x93 Reportera de Ag\xc3\xaancia Brasil'
+b'La segunda fase del enriquecimiento isot\xc3\xb3pico del uranio en Brasil ya est\xc3\xa1 siendo preparada por Industrias Nucleares do Brasil (INB), una estatal vinculada a la Comisi\xc3\xb3n Nacional de Energ\xc3\xada Nuclear. El presidente de INB, Jo\xc3\xa3o Carlos Tupinamb\xc3\xa1, dijo el mi\xc3\xa9rcoles (21), durante un Seminario Internacional de Energ\xc3\xada Nuclear, en Rio de Janeiro, que el proyecto b\xc3\xa1sico y los informes y solicitudes de licencias para la nueva fase ya fueron desarrollados.'
